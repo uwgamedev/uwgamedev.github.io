@@ -15,10 +15,22 @@
 
 	function loadAnnouncements() {
 		console.log("test");
-		var allBooks = this.responseXML.querySelectorAll("announcement");
-		console.log(allBooks.length);
-
-		document.getElementById("Announcements").innerHTML = "test";
+		var announcements = this.responseXML.querySelectorAll("announcement");
+		console.log(announcements.length);
+		for(var i = 0; i < announcements.length; i++) {
+			var div = document.createElement("div");
+			var title = document.createElement("h2");
+			title.innerHTML = announcements[i].querySelector("title").textContent;
+			var author = document.createElement("h3");
+			author.innerHTML = announcements[i].querySelector("author").textContent + " " + announcements[i].querySelector("date").textContent;
+			var body = document.createElement("p");
+			body.innerHTML = announcements[i].querySelector("body").textContent;
+			div.appendChild(title);
+			div.appendChild(author);
+			div.appendChild(body);
+			document.getElementById("Announcements").appendChild(div);
+		}
+		
 
 	}
 
