@@ -3,7 +3,7 @@
 
 	window.onload = function() {
 		loadXML("./Announcements/Current.xml",loadAnnouncements);
-		loadXMl("./projects/ProjectList.xml", loadProjects);
+		loadXML("./projects/ProjectList.xml", loadProjects);
 	};
 
 	function loadXML(address, action){
