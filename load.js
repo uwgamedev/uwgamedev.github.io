@@ -19,9 +19,9 @@
 		console.log(announcements.length);
 		for(var i = 0; i < announcements.length; i++) {
 			var div = document.createElement("div");
-			var title = document.createElement("h2");
+			var title = document.createElement("h3");
 			title.innerHTML = announcements[i].querySelector("title").textContent;
-			var author = document.createElement("h3");
+			var author = document.createElement("h5");
 			author.innerHTML = announcements[i].querySelector("author").textContent + " " + announcements[i].querySelector("date").textContent;
 			var body = document.createElement("p");
 			body.innerHTML = announcements[i].querySelector("body").textContent;
