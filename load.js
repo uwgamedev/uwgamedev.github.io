@@ -46,7 +46,7 @@
 			div.appendChild(title);
 			div.appendChild(caption);
 			div.className = "games";
-			document.getElementById("projects").appendChild(div);
+			document.getElementById("Projects").appendChild(div);
 		}
 
 	}
