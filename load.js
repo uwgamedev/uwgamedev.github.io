@@ -18,7 +18,7 @@
 		var allBooks = this.responseXML.querySelectorAll("announcement");
 		console.log(allBooks.length);
 
-		document.getElementById("Announcements").innerHTML = "";
+		document.getElementById("Announcements").innerHTML = "test";
 
 	}
 
