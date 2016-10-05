@@ -1,6 +1,6 @@
 body{
 	background-color: #dadee5;
-	background-image: url('./images/background.jpg');
+	background-image: url('/images/background.jpg');
 	color:#3a3b3d;
 	font-size: 18px;
 }
