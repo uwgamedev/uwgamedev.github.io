@@ -13,9 +13,10 @@
 
 	}
 
-	function loadAnnouncements(xml) {
+	function loadAnnouncements() {
+		console.log("test");
 		var allBooks = this.responseXML.querySelectorAll("announcement");
-		console.log(allBooks.size);
+		console.log(allBooks.length);
 
 		document.getElementById("Announcements").innerHTML = "";
 
