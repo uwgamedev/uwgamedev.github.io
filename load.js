@@ -38,6 +38,8 @@
 			var thumbnail = document.createElement("img");
 			thumbnail.src = projects[i].querySelector("image").textContent;
 			thumbnail.alt = projects[i].querySelector("title").textContent;
+			thumbnail.style.height = '200px';
+			thumbnail.style.width = '200px';
 			var title = document.createElement("p");
 			title.innerHTML = projects[i].querySelector("title").textContent;
 			var caption = document.createElement("p");
