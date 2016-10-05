@@ -17,6 +17,7 @@ body{
 
 	padding: 10px;
 	padding-left: 50px;
+	padding-right: 50px;
 
 
 }
@@ -55,12 +56,21 @@ h5 {
 }
 
 .icon {
+	width: 80px;
+}
+
+.icon, .games {
 vertical-align: top;
     display: inline-block;
     text-align: center;
     width: 80px;
 
 }
+
+.games {
+    width: 200px;
+}
+
 
 #topHeader{
 	margin-top: 0px;

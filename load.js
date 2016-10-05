@@ -14,9 +14,7 @@
 	}
 
 	function loadAnnouncements() {
-		console.log("test");
 		var announcements = this.responseXML.querySelectorAll("announcement");
-		console.log(announcements.length);
 		for(var i = 0; i < announcements.length; i++) {
 			var div = document.createElement("div");
 			var title = document.createElement("h3");
@@ -30,10 +28,27 @@
 			div.appendChild(body);
 			document.getElementById("Announcements").appendChild(div);
 		}
-		
-
 	}
 
+	function loadProjects() {
+		var projects = this.responseXML.querySelectorAll("project");
+		for(var i = 0; i < projects.length; i++) {
+			var div = document.createElement("div");
+			var thumbnail = document.createElement("img");
+			thumbnail.src = projects[i].querySelector("image").textContent;
+			thumbnail.alt = projects[i].querySelector("title").textContent;
+			var title = document.createElement("p");
+			title.innerHTML = projects[i].querySelector("title").textContent;
+			var caption = document.createElement("p");
+			caption.innerHTML = projects[i].querySelector("author").textContent + " " + projects[i].querySelector("date").textContent;
+			div.appendChild(thumbnail);
+			div.appendChild(title);
+			div.appendChild(caption);
+			div.className = "games";
+			document.getElementById("projects").appendChild(div);
+		}
+
+	}
 
 
 
