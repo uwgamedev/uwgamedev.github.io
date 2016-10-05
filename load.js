@@ -2,7 +2,7 @@
 	"use strict";
 
 	window.onload = function() {
-		loadXML("./Announcements/current.xml",loadAnnouncements)
+		loadXML("./Announcements/Current.xml",loadAnnouncements)
 	};
 
 	function loadXML(address, action){
