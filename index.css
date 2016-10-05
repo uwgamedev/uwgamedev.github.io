@@ -41,6 +41,12 @@ body{
 	padding: 10px;
 }
 
+h3 {
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-color: #e54732;
+}
+
 .icon {
 vertical-align: top;
     display: inline-block;
