@@ -30,9 +30,8 @@ body{
 }
 
 .blockContainer h2 {
-	border-bottom-style: solid;
-	border-bottom-width: 2px;
-	border-color: #15c4be;
+	width: 100%;
+	background-color: #e54732;
 
 }
 
@@ -44,7 +43,11 @@ body{
 h3 {
 	border-bottom-style: solid;
 	border-bottom-width: 2px;
-	border-color: #e54732;
+	border-color: #15c4be;
+	
+}
+h5 {
+	margin-top: 0;
 }
 
 .icon {
