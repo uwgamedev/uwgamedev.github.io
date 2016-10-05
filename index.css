@@ -41,6 +41,8 @@ body{
 }
 
 h3 {
+	color: white;
+	margin-bottom: 0;
 	border-bottom-style: solid;
 	border-bottom-width: 2px;
 	border-color: #15c4be;
