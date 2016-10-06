@@ -42,7 +42,7 @@
 			thumbnail.alt = projects[i].querySelector("title").textContent;
 			thumbnail.style.height = '200px';
 			thumbnail.style.width = '200px';
-			link.innerHTML = thumbnail;
+			link.appendChild(thumbnail);
 			var title = document.createElement("p");
 			title.innerHTML = projects[i].querySelector("title").textContent;
 			title.style.margin = "0";
