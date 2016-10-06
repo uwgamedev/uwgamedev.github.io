@@ -4,6 +4,7 @@
 	window.onload = function() {
 		loadXML("./Announcements/Current.xml",loadAnnouncements);
 		loadXML("./projects/ProjectList.xml", loadProjects);
+		loadXML("./calender/current.txt", loadCalender);
 	};
 
 	function loadXML(address, action){
@@ -57,11 +58,16 @@
 			div.appendChild(title);
 			div.appendChild(caption);
 			div.className = "games";
+			div.marginRight ="10px";
 			document.getElementById("Projects").appendChild(div);
 		}
 
 	}
 
+	function loadCalender() {
+		var allString = this.responseText;
+		console.log(allString);
+	}
 
 
 
