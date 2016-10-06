@@ -32,8 +32,9 @@
 	}
 
 	function loadProjects() {
+		console.log(this);
 		console.log(this.responseXML);
-		var projects = this.responseXML.querySelectorAll("project");
+		var projects = this.responseXML.querySelectorAll("projects");
 		for(var i = 0; i < projects.length; i++) {
 			var div = document.createElement("div");
 			var link = document.createElement("a");
