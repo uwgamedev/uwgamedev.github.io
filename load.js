@@ -67,6 +67,8 @@
 	function loadCalender() {
 		var allString = this.responseText;
 		console.log(allString);
+		var tokens = allString.split("\n");
+		console.log(tokens[0]);
 	}
 
 
