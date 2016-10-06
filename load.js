@@ -79,7 +79,7 @@
 			console.log(date[0]);
 			highlight.style.color="#15c4be";
 			bullet.appendChild(highlight);
-			bullet.innerHTML =": " + date[1];
+			bullet.innerHTML =highlight+": " + date[1];
 			list.appendChild(bullet);
 		}
 	}
