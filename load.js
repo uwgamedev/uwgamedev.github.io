@@ -69,6 +69,15 @@
 		console.log(allString);
 		var tokens = allString.split("\n");
 		console.log(tokens[0]);
+		var list = document.createElement ("ul");
+		document.getElementById("calender").appendChild(list);
+		for(var i = 0; i < tokens.length; i++) {
+			var bullet = document.createElement("li");
+			var date = tokens[i].split(":");
+			date[0].style.color="#15c4be";
+			bullet.innerHTML = date[0] + ": " + date[1];
+			list.appendChild(bullet);
+		}
 	}
 
 
