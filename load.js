@@ -75,7 +75,7 @@
 			var bullet = document.createElement("li");
 			var date = tokens[i].split(":");
 			var highlight = document.createElement("span");
-			highlight.innerHTML = date[0] +": " + date[1];
+			highlight.innerHTML = date[0] +": ";
 			highlight.style.color="#15c4be";
 			var normal = document.createElement("span");
 			normal.innerHTML = date[1];
