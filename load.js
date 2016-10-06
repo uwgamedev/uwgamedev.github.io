@@ -34,7 +34,8 @@
 	function loadProjects() {
 		console.log(this);
 		console.log(this.responseXML);
-		var projects = this.responseXML.querySelectorAll("projects");
+		var projectsContainer = this.responseXML.querySelector("projects");
+		var projects = projectsContainer.querySelectorAll("project");
 		console.log(projects.length);
 		for(var i = 0; i < projects.length; i++) {
 			var div = document.createElement("div");
