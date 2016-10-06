@@ -74,8 +74,12 @@
 		for(var i = 0; i < tokens.length; i++) {
 			var bullet = document.createElement("li");
 			var date = tokens[i].split(":");
-			date[0].style.color="#15c4be";
-			bullet.innerHTML = date[0] + ": " + date[1];
+			var highlight = document.createElement("span");
+			highlight.innerHTML = date[0];
+			console.log(date[0]);
+			highlight.style.color="#15c4be";
+			bullet.appendChild(highlight);
+			bullet.innerHTML =": " + date[1];
 			list.appendChild(bullet);
 		}
 	}
