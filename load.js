@@ -75,11 +75,12 @@
 			var bullet = document.createElement("li");
 			var date = tokens[i].split(":");
 			var highlight = document.createElement("span");
-			highlight.innerHTML = date[0];
-			console.log(date[0]);
+			highlight.innerHTML = date[0] +": " + date[1];
 			highlight.style.color="#15c4be";
+			var normal = document.createElement("span");
+			normal.innerHTML = date[1];
 			bullet.appendChild(highlight);
-			bullet.innerHTML =highlight+": " + date[1];
+			bullet.appendChild(normal);
 			list.appendChild(bullet);
 		}
 	}
