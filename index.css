@@ -35,9 +35,6 @@ body{
 	display: inline-block;
 }
 
-.blockContainer img {
-}
-
 .blockContainer h2 {
 	color: white;
 	padding-left: 5px;
@@ -79,6 +76,9 @@ vertical-align: top;
     width: 200px;
 }
 
+.project {
+	margin-right: 20px;
+}
 
 #topHeader{
 	margin-top: 0px;
@@ -88,9 +88,6 @@ vertical-align: top;
 	padding: 10px;
 	padding-left: 50px;
 	padding-right: 50px;
-	/*background-image: url("banner.jpg");
-	background-repeat: no-repeat;
-	*/
 	background-color: #15c4be;
 	background-image: url('./Images/bannertemp.jpg');
 	background-size: 100% 100%;

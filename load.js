@@ -4,7 +4,7 @@
 	window.onload = function() {
 		loadXML("./Announcements/Current.xml",loadAnnouncements);
 		loadXML("./projects/ProjectList.xml", loadProjects);
-		loadXML("./calender/current.txt", loadCalender);
+		loadXML("./calendar/current.txt", loadCalendar);
 	};
 
 	function loadXML(address, action){
@@ -33,13 +33,12 @@
 	}
 
 	function loadProjects() {
-		console.log(this);
-		console.log(this.responseXML);
 		var projectsContainer = this.responseXML.querySelector("projects");
 		var projects = projectsContainer.querySelectorAll("project");
 		console.log(projects.length);
 		for(var i = 0; i < projects.length; i++) {
 			var div = document.createElement("div");
+			div.className = "project";
 			var link = document.createElement("a");
 			link.href = projects[i].querySelector("url").textContent;
 			var thumbnail = document.createElement("img");
@@ -52,7 +51,7 @@
 			title.innerHTML = projects[i].querySelector("title").textContent;
 			title.style.margin = "0";
 			var caption = document.createElement("p");
-			caption.innerHTML = projects[i].querySelector("author").textContent + " " + projects[i].querySelector("date").textContent;
+			caption.innerHTML = projects[i].querySelector("author").textContent + "<br>" + projects[i].querySelector("date").textContent;
 			caption.style.margin = "0";
 			div.appendChild(link);
 			div.appendChild(title);
@@ -64,13 +63,13 @@
 
 	}
 
-	function loadCalender() {
+	function loadCalendar() {
 		var allString = this.responseText;
 		console.log(allString);
 		var tokens = allString.split("\n");
 		console.log(tokens[0]);
 		var list = document.createElement ("ul");
-		document.getElementById("calender").appendChild(list);
+		document.getElementById("calendar").appendChild(list);
 		for(var i = 0; i < tokens.length; i++) {
 			var bullet = document.createElement("li");
 			var date = tokens[i].split(":");
