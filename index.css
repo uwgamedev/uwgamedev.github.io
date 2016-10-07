@@ -76,7 +76,6 @@ p {
 }
 
 #contact li {
-	list-style: none;
 	float: left;
 	text-align: center;
 	vertical-align: top;
@@ -95,4 +94,25 @@ ul.list-group:after {
   clear: both;
   display: block;
   content: "";
+}
+
+.calendarEvent li, #contact li {
+	list-style: none;
+}
+
+.calendarEvent {
+	text-align: center;
+}
+
+.calendarDate{
+	color: #15c4be;
+}
+
+.thumbnailImage{
+	width: 200px;
+	height: 200px;
+}
+
+.thumbnailCaption {
+	margin: 0;
 }

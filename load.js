@@ -44,15 +44,14 @@
 			var thumbnail = document.createElement("img");
 			thumbnail.src = projects[i].querySelector("image").textContent;
 			thumbnail.alt = projects[i].querySelector("title").textContent;
-			thumbnail.style.height = '200px';
-			thumbnail.style.width = '200px';
+			thumbnail.className = "thumbnailImage";
 			link.appendChild(thumbnail);
 			var title = document.createElement("p");
 			title.innerHTML = projects[i].querySelector("title").textContent;
-			title.style.margin = "0";
+			title.className = "thumbnailCaption";
 			var caption = document.createElement("p");
 			caption.innerHTML = projects[i].querySelector("author").textContent + "<br>" + projects[i].querySelector("date").textContent;
-			caption.style.margin = "0";
+			caption.className = "thumbnailCaption";
 			div.appendChild(link);
 			div.appendChild(title);
 			div.appendChild(caption);
@@ -74,7 +73,7 @@
 			var date = tokens[i].split(":");
 			var highlight = document.createElement("span");
 			highlight.innerHTML = date[0] +": ";
-			highlight.style.color="#15c4be";
+			highlight.className = "calendarDate";
 			var normal = document.createElement("span");
 			normal.innerHTML = date[1];
 			bullet.appendChild(highlight);
