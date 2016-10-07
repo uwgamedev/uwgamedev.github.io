@@ -3,7 +3,7 @@
 }
 
 body {
-	background-image: url('./Images/background.jpg');
+	background-image: url('./Images/background.png');
 	background-repeat: no-repeat;
 	color: white;
 
@@ -41,7 +41,7 @@ body {
 	padding: 10px;
 }
 
-.container .content p {
+.container .content p, #contact{
 	width: 100%;
 	background-color:#f2f2f2;
 	font-size: 18px;
@@ -59,7 +59,7 @@ p {
 	padding: 15px;
 }
 
-.list-group, .container .content p {
+.list-group, .container .content p, #contact {
 	background-color:#f2f2f2;
 } 
 
@@ -73,7 +73,7 @@ p {
 	text-align: center;
 }
 
-.container .content p, #contact ul li {
+.container .content p, #contact, #contact ul li {
 	color: #3a3b3d;
 }
 
