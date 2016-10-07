@@ -39,7 +39,6 @@
 		console.log(projects.length);
 		for(var i = 0; i < projects.length; i++) {
 			var div = document.createElement("div");
-			div.className = "project";
 			var link = document.createElement("a");
 			link.href = projects[i].querySelector("url").textContent;
 			var thumbnail = document.createElement("img");
@@ -58,7 +57,6 @@
 			div.appendChild(title);
 			div.appendChild(caption);
 			div.className = "games";
-			div.marginRight ="10px";
 			document.getElementById("Projects").appendChild(div);
 		}
 
