@@ -1,63 +1,70 @@
 <!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<head>
-		<meta name="viewport" content="width = device-width, initial-scale = 1">
-		<link href="https://fonts.googleapis.com/css?family=Architects+Daughter" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="index.css">
 
-		<link rel="stylesheet" type="text/css" href="index.css">
-	    <script type="text/javascript" src="load.js"></script>
-		<title>UW Game Development Club </title>
-	</head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
 
-	<body>
-	<div id="topHeader"> 
-		<h1>uwgamedev.github.io</h1>
-		<h2>University of Washington Game Development Club</h2>
-
-	</div>
-	<div id = "bodyContainer">
-		<div class ="blockContainer">
-			<h2>Announcements</h2>
-			<div id="Announcements"> </div>
-		</div>
-		<div class ="blockContainer">
-			<h2>About</h2>
-			<p id = "about"><!--Own Video Games</li><li>Practice Programming and Design Skills</li><li>Network With Other Developers</li>Indie Development Scene<li></li></ul> -->
-			<img id = "aboutphoto" src="./Images/meetingFrame.png" alt="Meeting Photo" height= "250" width = "250">
-
-			Welcome! We're a club composed of students interested in game development. Programming or artistic skills aren't required at all to join. Though they might be helpful, they certainly aren't necessary for getting a general idea of how things work. Anyone is welcome to come! <br> This fall quarter, we plan on running tutorials, hosting Game Jams, and discusising game design. <br>
-
-			Meetings will be every Wednesday at 4:30 PM in Sieg 322 starting October 4. 
-			</pThis fall quarter, we plan on running tutorials, hosting Game Jams, and discusising game design.
-		</div>
-		<div class ="blockContainer">
-			<h2>Calendar</h2>
-			<div id="calendar">
-			</div>
-		</div>
-		<div class ="blockContainer">
-			<h2>Projects by Club Members!</h2>
-			<div  id = "Projects">
-				
-			</div>
-		</div>
-		<div class ="blockContainer">
-			<h2>Contact</h2>
-			<ul id = "contact">
-				<li><div class = "icon"><a href="https://discord.gg/uWQcnHC"><img src="./icons/Discord.png" alt="DiscordBanner" height="50" width = "50"></a><span class = "caption">Discord</span></div></li>
+<div class="container">
+	<div id = "top" class = "jumbotron">
+		<h1>UW Game Dev</h1>
+	    <p>Design. Programming. Art. Community.</p>
+	    </div>
+	    <nav class="navbar navbar-inverse">
+	    <div class="container-fluid">
+	    <div class="navbar-header">
+	    	<a class="navbar-brand" href="#">Game Dev</a>
+	    </div>
+	    	<ul class="nav navbar-nav">
+	     		<li class="active"><a href="#">Home</a></li>
+	       		<li><a href="#">Announcements</a></li>
+	      		<li><a href="#">About</a></li> 
+	      		<li><a href="#">Calendar</a></li> 
+	      		<li><a href="#">Projects</a></li> 
+	      		<li><a href="#">Contact</a></li> 
+	    	</ul>
+	  	</div>
+		</nav>
+		<div class = "content" class = "jumbotron">
+			<h1>Announcements</h1>
+			<p id ="announcements"></p>
+	    </div>
+		<div class = "content" class = "jumbotron">
+			<h1>About</h1>
+			<p><img class = "img-responsive" id = "aboutphoto" src="./Images/meetingphoto.jpg" alt="Meeting Photo" height= "200" width = "350">
+			Welcome! We're a club composed of students interested in game development. Programming or artistic skills aren't required at all to join. Though they might be helpful, they certainly aren't necessary for getting a general idea of how things work. Anyone is welcome to come! 
+			This fall quarter, we plan on running tutorials, hosting Game Jams, and discusising game design. 
+			Meetings will be every Wednesday at 4:30 PM in Sieg 322 starting October 4. </p>
+	    </div>
+	    <div class = "content" class = "jumbotron">
+			<h1>Calendar</h1>
+			<p id = "calendar"></p>
+	    </div>
+	    <div class = "content" class = "jumbotron">
+			<h1>Projects</h1>
+			<p id= "projects"></p>
+	    </div>
+	    <div class = "content" class = "jumbotron">
+			<h1>Contact</h1>
+			<p><ul id = "contact" class= "list-group">
+				<li ><div class = "icon"><a href="https://discord.gg/uWQcnHC"><img src="./icons/Discord.png" alt="DiscordBanner" height="50" width = "50"></a><span class = "caption">Discord</span></div></li>
 				<li><div class = "icon"><a href="https://www.facebook.com/groups/uwgamedevc"><img src="./icons/Facebook.png" alt="FacebookBanner" height="50" width = "50"></a><span class = "caption">Facebook</span></div></li>
 				<li><div class = "icon"><a href="mailto:uwgamedev@gmail.com"><img src="./icons/gmail.png" alt="DiscordBanner" height="50" width = "50"></a><span class = "caption">Email</span></div></li>
 				<li><div class = "icon"><a href="https://drive.google.com/folderview?id=0B_29sXJmLbNJZ2pmWG1LSldfMzg&usp=sharing"><img src="./icons/googledrive.png" alt="DiscordBanner" height="50" width = "50"></a><span class = "caption">Drive</span></div></li>
-				<li><div class = "icon"><a href="https://github.com/uwgamedev"><img src="./icons/Github.png" alt="DiscordBanner" height="50" width = "50"></a><span class = "caption">GitHub</span></div></li>
-				
-			
-			</ul>
+				<li> <div class = "icon"><a href="https://github.com/uwgamedev"><img src="./icons/Github.png" alt="DiscordBanner" height="50" width = "50"></a><span class = "caption">GitHub</span></div></li>
+			</ul></p>
+	    </div>
 
-		</div>
-	</div>
+</div>
 
-	</body>
-
-
+</body>
 </html>
+

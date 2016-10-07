@@ -1,107 +1,98 @@
-#about {
-	margin: 10px;
-}
-
 #aboutphoto {
 	float: right;
 }
 
-body{
-	background-color: #dadee5;
+body {
 	background-image: url('./Images/background.jpg');
-	color:#3a3b3d;
-	font-size: 18px;
-}
-
-#bodyContainer, #topHeader {
-	font-family: 'Architects Daughter','Helvetica Neue', Helvetica, Arial, serif;
-}
-
-#bodyContainer {
-	width: 70%;
-	margin-left: auto;
-	margin-right:auto;
-	background-color: #f2f2f2;
-
-	padding: 10px;
-	padding-left: 50px;
-	padding-right: 50px;
-
-
-}
-
-.blockContainer p{
-	font-family: 'Helvetica Neue';
-	display: inline-block;
-}
-
-.blockContainer h2 {
 	color: white;
-	padding-left: 5px;
-	width: 100%;
-	background-color: #e54732;
 
 }
 
-#contact li {
-	display: inline;
+#top {
+	background-image: url('./Images/bannertemp.jpg');
+}
+
+
+.container .jumbotron {
+background-image: url("./Images/bannertemp.jpg");
+background-size: cover;
+border-bottom-left-radius: 0em;
+border-bottom-right-radius: 0em;
+margin-bottom: 0;
+}
+
+.container .navbar {
+	margin: 0;
+	border-radius: 0;
+	border-width: 0;
+}
+
+.container .row {
+	margin: 0;
+}
+
+.container h1 {
+	margin: 0;
+}
+
+.container .content h1 {
+	font-size: 28px;
+	background-color: #e54732;
 	padding: 10px;
 }
 
-h3 {
-	margin-bottom: 0;
-	border-bottom-style: solid;
-	border-bottom-width: 2px;
-	border-color: #15c4be;
-	
-}
-h5 {
-	margin-top: 0;
-	color: #bab8b8;
+.container .content p {
+	width: 100%;
+	background-color:#f2f2f2;
+	font-size: 18px;
+	float: left;
 }
 
 .icon {
-	width: 80px;
-}
-
-.icon, .games {
+    width: 120px;
+	text-align: center;
 	vertical-align: top;
     display: inline-block;
-    text-align: center;
 }
 
-.games {
-	width: 200px;
-	height: 300px;
-	margin-bottom: 20px;
-	margin-right: 20px;
-
+.icon:after {
+	text-align: center;
 }
 
-#topHeader{
-	margin-top: 0px;
-	margin-left: auto;
-	margin-right: auto;
-	width: 70%;
-	padding: 10px;
-	padding-left: 50px;
-	padding-right: 50px;
-	background-color: #15c4be;
-	background-image: url('./Images/bannertemp.jpg');
-	background-size: 100% 100%;
-	color: white;
-	font-family: 'PT Sans', sans-serif;
-
-
+p {
+	padding: 15px;
+	margin: 0;
 }
 
-#topHeader h1 {
-	font-size: 48px;
+.list-group, .container .content p {
+	background-color:#f2f2f2;
 
 
+} 
+
+.list-group {
+	margin-bottom: 0;
+	text-align: center;
 }
 
-ul {
-  list-style-type: none;
-  text-align: center;
+#contact li {
+	list-style: none;
+	float: left;
+	text-align: center;
+	vertical-align: top;
+    display: inline-block;
+}
+
+.container .content p, #contact li {
+	color: #3a3b3d;
+}
+
+.caption {
+	display: block;
+}
+
+ul.list-group:after {
+  clear: both;
+  display: block;
+  content: "";
 }

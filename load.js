@@ -28,7 +28,7 @@
 			div.appendChild(title);
 			div.appendChild(author);
 			div.appendChild(body);
-			document.getElementById("Announcements").appendChild(div);
+			document.getElementById("announcements").appendChild(div);
 		}
 	}
 
@@ -57,7 +57,7 @@
 			div.appendChild(title);
 			div.appendChild(caption);
 			div.className = "games";
-			document.getElementById("Projects").appendChild(div);
+			document.getElementById("projects").appendChild(div);
 		}
 
 	}
