@@ -4,6 +4,7 @@
 
 body {
 	background-image: url('./Images/background.jpg');
+	background-repeat: no-repeat;
 	color: white;
 
 }
