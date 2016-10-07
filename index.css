@@ -75,14 +75,17 @@ p {
 	text-align: center;
 }
 
-#contact li {
+#contact ul li {
 	float: left;
-	text-align: center;
-	vertical-align: top;
-    display: inline-block;
 }
 
-.container .content p, #contact li {
+#contact ul li, .games {
+	vertical-align: top;
+    display: inline-block;
+	text-align: center;
+}
+
+.container .content p, #contact ul li {
 	color: #3a3b3d;
 }
 
@@ -96,11 +99,11 @@ ul.list-group:after {
   content: "";
 }
 
-.calendarEvent li, #contact li {
+.calendar li, #contact ul li {
 	list-style: none;
 }
 
-.calendarEvent {
+.calendar {
 	text-align: center;
 }
 
@@ -115,4 +118,5 @@ ul.list-group:after {
 
 .thumbnailCaption {
 	margin: 0;
+	padding: 0;
 }
