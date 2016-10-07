@@ -65,19 +65,17 @@ h5 {
 }
 
 .icon, .games {
-vertical-align: top;
+	vertical-align: top;
     display: inline-block;
     text-align: center;
-    width: 80px;
-
 }
 
 .games {
-    width: 200px;
-}
-
-.project {
-	margin-right: 20px;
+	width: 250px;
+	height: 300px;
+	margin-bottom: 20px;
+	background-color: black;
+	
 }
 
 #topHeader{
