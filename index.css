@@ -108,6 +108,6 @@ ul.list-group:after {
 	height: 200px;
 }
 
-.thumbnailCaption {
+.thumbnailCaption, #calendar ul{
 	padding: 0;
 }
