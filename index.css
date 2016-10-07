@@ -64,20 +64,16 @@ p {
 } 
 
 
-#contact li {
-	float: left;
-}
-
-#contact li, .games {
+#contact ul li, .games {
 	vertical-align: top;
     display: inline-block;
 }
 
-#contact li, .games, #projects, #calendar, .icon, .icon:after, .list-group{
+#contact ul li, .games, #projects, #calendar, .icon, .icon:after, .list-group{
 	text-align: center;
 }
 
-.container .content p, #contact li {
+.container .content p, #contact ul li {
 	color: #3a3b3d;
 }
 
@@ -90,7 +86,7 @@ ul.list-group:after {
   content: "";
 }
 
-#calendar li, #contact li {
+#calendar li, #contact ul li {
 	list-style: none;
 }
 
