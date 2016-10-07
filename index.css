@@ -12,27 +12,26 @@ body {
 	background-image: url('./Images/bannertemp.jpg');
 }
 
+.container .jumbotron, .list-group {
+	margin-bottom: 0;
+
+}
 
 .container .jumbotron {
-background-image: url("./Images/bannertemp.jpg");
-background-size: cover;
-border-bottom-left-radius: 0em;
-border-bottom-right-radius: 0em;
-margin-bottom: 0;
+	background-image: url("./Images/bannertemp.jpg");
+	background-size: cover;
+	border-bottom-left-radius: 0em;
+	border-bottom-right-radius: 0em;
+}
+
+.container .navbar, .container .row, .container h1, p, .thumbnailCaption{
+	margin: 0;
+
 }
 
 .container .navbar {
-	margin: 0;
 	border-radius: 0;
 	border-width: 0;
-}
-
-.container .row {
-	margin: 0;
-}
-
-.container h1 {
-	margin: 0;
 }
 
 .container .content h1 {
@@ -50,30 +49,19 @@ margin-bottom: 0;
 
 .icon {
     width: 120px;
-	text-align: center;
 	vertical-align: top;
     display: inline-block;
 }
 
-.icon:after {
-	text-align: center;
-}
 
 p {
 	padding: 15px;
-	margin: 0;
 }
 
 .list-group, .container .content p {
 	background-color:#f2f2f2;
-
-
 } 
 
-.list-group {
-	margin-bottom: 0;
-	text-align: center;
-}
 
 #contact li {
 	float: left;
@@ -82,6 +70,9 @@ p {
 #contact li, .games {
 	vertical-align: top;
     display: inline-block;
+}
+
+#contact li, .games, #projects, #calendar, .icon, .icon:after, .list-group{
 	text-align: center;
 }
 
@@ -89,13 +80,12 @@ p {
 	color: #3a3b3d;
 }
 
-.caption {
+.caption, ul.list-group:after {
 	display: block;
 }
 
 ul.list-group:after {
   clear: both;
-  display: block;
   content: "";
 }
 
@@ -103,9 +93,6 @@ ul.list-group:after {
 	list-style: none;
 }
 
-#calendar {
-	text-align: center;
-}
 
 .calendarDate{
 	color: #15c4be;
@@ -123,6 +110,5 @@ ul.list-group:after {
 }
 
 .thumbnailCaption {
-	margin: 0;
 	padding: 0;
 }
