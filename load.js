@@ -33,6 +33,7 @@
 	}
 
 	function loadProjects() {
+		console.log(this);
 		var projectsContainer = this.responseXML.querySelector("projects");
 		var projects = projectsContainer.querySelectorAll("project");
 		console.log(projects.length);
