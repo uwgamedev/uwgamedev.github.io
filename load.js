@@ -16,7 +16,7 @@
 	}
 
 	function loadAnnouncements() {
-		var announcementsContainer = this.responseXML.querySelectorAll("announcements");
+		var announcementsContainer = this.responseXML.querySelector("announcements");
 		var announcement = announcementsContainer.querySelectorAll("announcement");
 		console.log(announcement.length);
 		for(var i = 0; i < announcement.length; i++) {
