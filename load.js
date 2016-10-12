@@ -16,15 +16,16 @@
 	}
 
 	function loadAnnouncements() {
-		var announcements = this.responseXML.querySelectorAll("announcement");
-		for(var i = 0; i < announcements.length; i++) {
+		var announcementsContainer = this.responseXML.querySelectorAll("announcements");
+		var announcement = this.responseXML.querySelectorAll("announcement");
+		for(var i = 0; i < announcement.length; i++) {
 			var div = document.createElement("div");
 			var title = document.createElement("h3");
-			title.innerHTML = announcements[i].querySelector("title").textContent;
+			title.innerHTML = announcement[i].querySelector("title").textContent;
 			var author = document.createElement("h5");
-			author.innerHTML = announcements[i].querySelector("author").textContent + " " + announcements[i].querySelector("date").textContent;
+			author.innerHTML = announcement[i].querySelector("author").textContent + " " + announcement[i].querySelector("date").textContent;
 			var body = document.createElement("p");
-			body.innerHTML = announcements[i].querySelector("body").textContent;
+			body.innerHTML = announcement[i].querySelector("body").textContent;
 			div.appendChild(title);
 			div.appendChild(author);
 			div.appendChild(body);
@@ -33,10 +34,8 @@
 	}
 
 	function loadProjects() {
-		console.log(this);
 		var projectsContainer = this.responseXML.querySelector("projects");
 		var projects = projectsContainer.querySelectorAll("project");
-		console.log(projects.length);
 		for(var i = 0; i < projects.length; i++) {
 			var div = document.createElement("div");
 			var link = document.createElement("a");
@@ -63,9 +62,7 @@
 
 	function loadCalendar() {
 		var allString = this.responseText;
-		console.log(allString);
 		var tokens = allString.split("\n");
-		console.log(tokens[0]);
 		var list = document.createElement ("ul");
 		document.getElementById("calendar").appendChild(list);
 		for(var i = 0; i < tokens.length; i++) {
