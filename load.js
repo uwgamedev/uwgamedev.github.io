@@ -17,7 +17,8 @@
 
 	function loadAnnouncements() {
 		var announcementsContainer = this.responseXML.querySelectorAll("announcements");
-		var announcement = announcementsContainer.responseXML.querySelectorAll("announcement");
+		var announcement = announcementsContainer.querySelectorAll("announcement");
+		console.log(announcement.length);
 		for(var i = 0; i < announcement.length; i++) {
 			var div = document.createElement("div");
 			var title = document.createElement("h3");
