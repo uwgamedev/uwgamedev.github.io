@@ -2,6 +2,12 @@
 	float: right;
 }
 
+#announcements div h3 {
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #15c4be; 
+}
+
 body {
 	background-image: url('./Images/background.png');
 	background-repeat: no-repeat;
