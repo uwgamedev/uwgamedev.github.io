@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<features><feature><image_src>images/featured/nightfall.png</image_src><author>2Shot</author><title>Nightfall</title><link>https://twoshot.itch.io/nightfall</link></feature>
+	<feature>
+		<image_src>./images/games/superdunkman.png</image_src>
+		<title>Super Dunkman1</title>
+		<author>Andrew Murray</author>
+		<link>https://andrfw.itch.io/superdunkman</link>
+	</feature>
+</features>

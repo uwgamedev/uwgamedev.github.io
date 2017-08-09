@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+@font-face {
+    font-family: Prime;
+    src: url(prime.otf);
+}</style>
+<title>GDC</title>
+<link href="https://fonts.googleapis.com/css?family=Saira" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="admin.css">
+<script src="admin.js"></script>
+
+</head>
+
+<body>
+
+	<!--HEADERS-->
+	<div id = "banner">
+		<div id = "title">
+		Game Development Club <br> <span class = "gold_text">ADMIN PANEL</span>
+		</div>
+	</div>
+	<div id = "navigation">
+		<ul>
+			<li id = "nav_announcement" class = "highlight">Announcement</li>
+			<li id = "nav_featured">Featured</li>
+			<li id = "nav_calender">Calender</li>
+			<li id = "nav_projects">Projects</li>
+			<li id = "nav_jumbotron">Jumbotron</li>
+		</ul>
+	</div>
+
+
+	<!--MAIN CONTENT AREA -->
+	<div id = "main">
+		<div id = "announcement">
+			<h3>Current Announcement</h3>
+			<h5 id = "announce_text"></h5>
+			<h3>Update</h3>
+			<form action="announcement.php" method="post">
+		    	<input type="text" id="announcement_box" name="message" placeholder="New Announcement.." required>
+		    	<input type="submit" class = "update" value="Submit">
+		    </form>
+		</div>
+
+		<div id = "featured">
+			<h3>Featured List</h3>
+			<div id = feature_container>
+				<div class = "feature">
+					<form action="feature.php" enctype="multipart/form-data" method="post">
+						<div class = "feature_caption">
+							<input type="file" name="feature_image" id="feature_image_upload" required>
+							<input type="text" class = "feature_form" name="title" placeholder="TITLE NAME" required>
+							<input type="text" class = "feature_form" name="author" placeholder="AUTHOR NAME" required>
+							<input type="text" class = "feature_form" name="link" placeholder="URL LINK" required>
+							<input type="text" name = "database" value = "featured" class = "input_hide">
+					    	<input type="submit" class = "update" value="Upload" name = "upload">
+						</div>
+			    	</form>
+
+				</div>
+			</div>
+		</div>
+
+		<div id = "projects">
+			<h3>Club Projects</h3>
+			<div id = project_container>
+				<div class = "feature">
+					<form action="feature.php" enctype="multipart/form-data" method="post">
+						<div class = "feature_caption">
+							<input type="file" name="feature_image" id="feature_image_upload" required>
+							<input type="text" class = "feature_form" name="title" placeholder="TITLE NAME" required>
+							<input type="text" class = "feature_form" name="author" placeholder="AUTHOR NAME" required>
+							<input type="text" class = "feature_form" name="link" placeholder="URL LINK" required>
+							<input type="text" name = "database" value = "projects" class = "input_hide">
+					    	<input type="submit" class = "update" value="Upload" name = "upload">
+						</div>
+			    	</form>
+
+				</div>
+			</div>
+		</div>
+
+
+		<div id  = "calender">
+			<h3>Quartly Calender</h3>
+			<div id = calender_container>
+				<div class = calender_event>
+					<form action="calender.php" method="post">
+					<input type="text" class = "calender_form" name="title" placeholder="Event Name" required>
+					<input type="text" class = "calender_form" name="date" placeholder="Event Date (eg. 'Oct. 9')" required>
+			    	<input type="submit" class = "update" name = "upload" value="Add">
+					</div>
+			    	</form>
+				</div>
+
+			</div>
+		</div>
+
+	</div>
+</body>
+
+</html>
