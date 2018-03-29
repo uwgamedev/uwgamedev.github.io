@@ -345,18 +345,18 @@ body {
 }
 
 .project_sort{
-	display: inline-block;
-	padding: 5px 20px 5px 20px;
-	background-color: #e7e7e7;
-	border-radius: 1px;
-	font-size: 12px;
-	width: 80px;
-	text-align: center;
+    display: inline-block;
+    padding: 5px 20px 5px 20px;
+    border-radius: 1px;
+    border: 1px solid #e7e7e7;
+    font-size: 12px;
+    width: 80px;
+    text-align: center;
 }
 
 .project_sort_current{
 	background-color: white;
-    color: #FFD700;
+    border: 1px solid #FFD700;
 }
 
 .button {
