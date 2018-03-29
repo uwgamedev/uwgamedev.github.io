@@ -27,7 +27,7 @@ body {
 }
 
 #container {
-	visibility: hidden;
+	/*visibility: hidden;*/
 }
 
 #banner {
@@ -181,11 +181,12 @@ body {
 }
 
 #feature .game {
-	background-color: white;
-	color: gray;
-	clear: both;
-	width: 100%;
-	box-shadow: 10px 0px 5px gray;
+    background-color: white;
+    color: gray;
+    clear: both;
+    width: 100%;
+    border: solid #e7e7e7;
+    border-width: 1px 0px 1px 
 }
 
 #feature .game .tile {
@@ -213,6 +214,7 @@ body {
 	line-height: 50%
 	padding-top: 30px;
 	width: 150px;
+	font-size: 16px;
 }
 
 #feature h3{
@@ -291,7 +293,7 @@ body {
 	line-height: 80%;
 	text-align: center;
 	overflow: hidden;
-	box-shadow: 1px 0px 2px gray;
+	border:1px solid #e7e7e7;
 	display: inline-block;
 }
 
@@ -299,13 +301,14 @@ body {
 	font-size: 16px;
 }
 .project:hover, .game:hover {
-	border: 2px solid #6715a3;
+	/*border: 2px solid #6715a3;*/
 }
 
 .project_caption {
 	margin-left: 0px;
 	color: gray;
 	margin-top: 26px;
+	font-size: 16px;
 }
 
 .project_link {

@@ -17,11 +17,11 @@
 		loadXML("admin/announcement.txt", loadAnnouncement);
 		loadXML("admin/slideshow.xml", createSlides);
 		showSlides(1);
-		var myVar = setTimeout(landingAnimation, 1500);
+		//var myVar = setTimeout(landingAnimation, 1500);
 	};
 
 	function landingAnimation() {
-		document.getElementById("logo_animation").classList.toggle('closed');
+		//document.getElementById("logo_animation").classList.toggle('closed');
 		document.getElementById("container").style.visibility = "visible";
 	}
 
