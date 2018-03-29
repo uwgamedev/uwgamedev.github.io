@@ -1,28 +1,56 @@
-a {
+#footer a, li a {
 	text-decoration: none;
 	color: #C6C6C6;
 }
 
-a:hover, #navigation ul li:hover {
+a{
+	color:#6715a3;
+}
+
+iframe{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+a:hover, #footer a:hover, #navigation ul li:hover {
 	color:#FFD700;
+	cursor: pointer;
 }
 
 body {
 	background-color: #3E3E3E;
 	margin: 0;
 	font-family: 'Saira', 'Prime', sans-serif;
-}
-#banner {
-	background-color: #FFFFFF;
-	width: 100%;
-	height: 60px;
+	
 }
 
+#container {
+	visibility: hidden;
+}
+
+#banner {
+	background-color: #FFFFFF;
+	width: 75%;
+	overflow: auto;
+
+}
+
+#banner, #main {
+	margin-left: 12.5%;
+
+}
+
+ #banner, #feature {
+	margin-right: 12.5%;
+
+}
 #title {
-	margin-left: 10%;
-	padding-top: 10px;
 	font-size: 24px;
 	line-height: 80%;
+	text-align: left;
+	padding: 20px;
 }
 
 #title span{
@@ -37,7 +65,7 @@ body {
 #navigation {
 	margin-right: auto;
 	margin-left: auto;
-	width: 80%;
+	width: 75%;
 
 }
 
@@ -46,7 +74,7 @@ body {
 	margin: 0px 0px 4px 0px;
 }
 
-#navigation ul li, .contact{
+#navigation ul li, .contact, .contact_fencepost{
 	font-size: 14px;
 	display: inline-block;
 	margin: 0px;
@@ -55,8 +83,7 @@ body {
 }
 
 #main {
-	margin-left: 10%;
-	width: 50%;
+	width: 47.5%;
 	float: left;
 	display: inline;
 }
@@ -87,6 +114,9 @@ body {
 	padding-right: 0;
 }
 
+.current_week {
+}
+
 #events #event_name{
 	list-style: none;
 	font-size: 16px;
@@ -94,28 +124,57 @@ body {
 	text-align: left;
 	overflow:hidden;
 	padding-left: 10px;
+	padding-right: 25px;
+	max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-#events #event_name li{
-	width: 50%;
-	float:left;
-  	display:inline;
-  	padding-right: 0px;
+#events .event_date{
+    float: left;
+    width: 100px;
+    text-align: center;
+    background: #6715a3;
+    color: white;
+    height: 125px;
+    padding-top: 25px;
+    font-size: 40px;
+    line-height: 100%;
 }
 
-.purple_text, #feature .game .caption h4 {
+#events .event_title{
+	float: left;
+    margin-left: 20px;
+    height: 125px;
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+.event {
+	overflow: auto;
+	box-shadow: 2px 0px 5px gray;
+    margin-bottom: 10px;
+}
+
+.event_month {
+    font-size: 28px;
+    display: block;
+}
+
+.purple_text, #feature .game .caption h4, .project_caption h4, .current_week{
 	color:#6715a3;
 }
 
+.game, .info, .head, .event{
+	overflow: hidden;
+}
+
 #feature {
-	width: 27%;
+	width: 26.5%;
 	background-color: white;
-	margin-right: 10%;
 	margin-left: .5%;
 	height: auto;
 	float: right;
-	padding-left: 2%;
-	padding-right: .5%;
 	font-size: 14px;
 	margin-bottom: 50px;
 	overflow: auto;
@@ -126,12 +185,12 @@ body {
 	color: gray;
 	clear: both;
 	width: 100%;
-	height: 150px;
-	margin-bottom: 10px;
+	box-shadow: 10px 0px 5px gray;
 }
 
 #feature .game .tile {
-	width: 50%;
+	width: 150px;
+	height: 120px;
 	background-repeat: no-repeat;
 	background-color: #929292;
 	background-position: center;
@@ -140,8 +199,11 @@ body {
 }
 
 #feature .game .tile, .feature_link{
-	height: 150px;
 	display: block;
+}
+
+.feature_link{
+	height: 100%;
 }
 
 #feature .game .caption {
@@ -150,22 +212,33 @@ body {
 	float: left;
 	line-height: 50%
 	padding-top: 30px;
+	width: 150px;
+}
+
+#feature h3{
+	margin-left: 20px;
 }
 
 #footer {
 	clear: both;
 	width: 100%;
-	height: 50px;
+	height: 80px;
 	margin-left: auto;
 	margin-right: auto;
 	padding-left: 10%;
+    margin-bottom: -80px;
+    padding-top: 1%
 }
 
-.contact {
+.contact, .contact_fencepost {
 	float: left;
 	margin-top: 10px;
 	padding-right: 60px;
 	padding-left: 60px;
+}
+
+.contact_fencepost{
+	border-style: none;
 }
 
 .jumbo_image{
@@ -178,33 +251,145 @@ body {
 	height: 2px;
 }
 
-#logo {
-	background: url('images/gamedevlogo.png');
+.logo_animation {
+	background: url('images/logo_animation.gif');
 	background-position: center;
-	height: 200px;
-	width: 200px;
-	background-size: 200px;
 	background-repeat: no-repeat;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 20px;
+	background-color: black;
+	background-size: 75%;
+	width: 100%;
+	height: 100vh;
+	display: inline-block;
+
+	overflow-y: hidden;
+	max-height: 100vh; /* approximate max height */
+
+	transition-property: all;
+	transition-duration: 1.5s;
+	transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+}
+
+.logo_animation.closed {
+	max-height: 0;
 }
 
 #projects_container{
+	clear: both;
 	overflow: auto;
+	text-align: center;
 }
 
 .project {
-	float: left;
-	background: url('images/gamedevlogo.png');
-	background-size: 200px 150px;
-	background-repeat: no-repeat;
+	background-color: white;
 	margin-right: 10px; 
 	background-position: center;
+	border-style: none;
+	width: 200px;
+	height: 350px;
+	margin-bottom: 20px;
+	font-size: 24px;
+	line-height: 80%;
+	text-align: center;
+	overflow: hidden;
+	box-shadow: 1px 0px 2px gray;
+	display: inline-block;
 }
 
-.project, .project_link {
-	width: 200px;
-	height: 150px;
-	display: block;
+.project h5{
+	font-size: 16px;
 }
+.project:hover, .game:hover {
+	border: 2px solid #6715a3;
+}
+
+.project_caption {
+	margin-left: 0px;
+	color: gray;
+	margin-top: 26px;
+}
+
+.project_link {
+	width: 200px;
+	height: 200px;
+	display: block;
+	background-size: cover;
+    background-position: center center;
+	background-repeat: no-repeat;
+}
+
+.project_description {
+	font-size: 14px;
+	margin-top: 0px;
+	padding: 2px;
+	position: relative;
+    bottom: -100px;
+    transition: 1s;
+    display: block;
+}
+
+.project_tile{
+}
+
+.project:hover .hover {
+    display: none;
+}
+.project:hover .hover-other {
+    transition: 1s;
+    bottom: 0;
+}
+
+#project_sort_container{
+	overflow: auto;
+	text-align: right;
+	margin-top: 10px;
+}
+
+.project_sort{
+	display: inline-block;
+	padding: 5px 20px 5px 20px;
+	background-color: #e7e7e7;
+	border-radius: 1px;
+	font-size: 12px;
+	width: 80px;
+	text-align: center;
+}
+
+.project_sort_current{
+	background-color: white;
+    color: #FFD700;
+}
+
+.button {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: white; 
+    color: #e7e7e7;
+    cursor: pointer;
+}
+
+.resource_link {
+	font-size: 16px;
+	margin-top: 10px;
+	width: 80%;
+	padding: 5px;
+	padding-left: 10px;
+	position: relative;
+    left: -100%;
+    transition: .5s;
+    display: block;
+    background-color: #6715a3;
+    color: white;
+}
+
+.resource:hover .resource_link {
+	transition: .5s;
+    left: 0;
+}
+
+.resource {
+	overflow: hidden;
+}
+
