@@ -17,6 +17,7 @@ a{
 	background-image: url('anime_club.jpg');
 	opacity: 1;
 	transition: opacity 2s;
+	display: none;
 }
 
 #anime_overlay:hover{
