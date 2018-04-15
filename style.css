@@ -79,7 +79,6 @@ body {
 	display: inline-block;
 	margin: 0px;
 	padding: 5px 20px 4px 20px;
-	border-right: 1px solid #4E4E4E;
 }
 
 #main {
@@ -222,21 +221,18 @@ body {
 }
 
 #footer {
-	clear: both;
-	width: 100%;
-	height: 80px;
-	margin-left: auto;
-	margin-right: auto;
-	padding-left: 10%;
-    margin-bottom: -80px;
-    padding-top: 1%
+    clear: both;
+    width: 100%;
+    overflow: auto;
+    padding: 0% 5% 2% 20%;
 }
 
 .contact, .contact_fencepost {
 	float: left;
 	margin-top: 10px;
-	padding-right: 60px;
-	padding-left: 60px;
+	padding: 0;
+	width: 33%;
+	margin-top: 3vh;
 }
 
 .contact_fencepost{
@@ -394,5 +390,23 @@ body {
 
 .resource {
 	overflow: hidden;
+}
+
+@media only screen and (max-width: 720px) {
+	#banner, #feature, #main {
+		margin: 0;
+	}
+
+	.contact, .contact_fencepost {
+		border: none;
+		padding-left: 20%;
+
+	}
+
+	#main, #navigation, #banner, #feature, .contact, .contact_fencepost {
+		width: 100%;
+	}
+
+
 }
 
