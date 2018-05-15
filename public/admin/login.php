@@ -23,15 +23,20 @@
 
 <html>
     <head>
-        <title>Test Login</title>
+        <title>GDC Officer Login</title>
+        <link rel="stylesheet" type="text/css" href="login.css">
     </head>
+
     <body>
-        <form method="post" action="login.php">
-            Username: <br/>
-            <input type="text" name="username"><br/>
-            Password: <br/>
-            <input type="password" name="password"><br/>
-            <input type="submit" value="Login">
-        </form>
+        <div id = "login_logo"></div>
+        <div id = "login_container">
+            <form method="post" action="login.php">
+                Username: <br/>
+                <input type="text" name="username"><br/>
+                Password: <br/>
+                <input type="password" name="password"><br/>
+                <input id = "submit" type="submit" value="Login">
+            </form>
+        </div>
     </body>
 </html>

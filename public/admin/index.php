@@ -54,7 +54,7 @@
 		    </div>
 		    <form action = "announcement.php" method="post" onsubmit="prepareDiv()">
 				<input type="hidden"  id="announcement_box" name="message">
-		    	<input type="submit" value="Submit">
+		    	<input class = "update" type="submit" value="Submit">
 		    </form>
 		</div>
 

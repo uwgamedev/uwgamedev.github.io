@@ -8,7 +8,6 @@ a:hover, #navigation ul li:hover {
 }
 
 body {
-	
 	margin: 0;
 	font-family: 'Saira', 'Prime', sans-serif;
 }
@@ -18,15 +17,21 @@ body, .highlight, #main {
 }
 
 h3, #announce_text{
-	margin:10px;
+	margin:20px;
+	margin-bottom: 50px;
 }
+
+#announcement .update {
+	margin-left: 0px;
+	margin-top: 20px;
+}
+
 #banner {
 	background-color: #212121;
 	width: 100%;
 	height: 60px;
 	color: white;
-	position: fixed;
-	
+	position: fixed;	
 }
 
 #title {
@@ -87,7 +92,7 @@ h3, #announce_text{
 	margin-left: 15%;
 }
 
-input[type=text], select {
+input[type=text], input[type=password],select {
     width: 100%;
     padding: 12px 20px;
     margin: 15px 0px;
@@ -98,10 +103,10 @@ input[type=text], select {
 
 .update, .delete {
     width: 100px;
-    background-color: #4CAF50;
-    color: white;
+    background-color: white;
+    color: #571784;
     padding: 5px 10px;
-    border: none;
+    border: 1px solid #571784;
     border-radius: 4px;
     cursor: pointer;
     float:left;
@@ -109,29 +114,34 @@ input[type=text], select {
 }
 
 .update:hover {
-    background-color: #45a049;
+    background-color: #571784;
+    color: white;
 }
 
 .delete {
-	background-color: #ed1022;
+	border: 1px solid #e22f5f;
+	color: #e22f5f;
 }
 
 .delete:hover {
-	background-color: #c40313;
+	background-color: #e22f5f;
+	color: white;
 }
 
 .feature {
 	width: 300px;
 	float: left;
 	margin-right: 30px;
+	transition: height 1s;
+	
 }
 
 .feature, .calender_event {
-    border: 1px solid gray;
     overflow: auto;
     margin-bottom: 20px;
     padding: 10px;
     border-radius: 5px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 
 .calender_event {
@@ -154,6 +164,7 @@ input[type=text], select {
 	margin-left: 3%;
 	margin-right: 10px;
 	line-height: 50%;
+	margin-bottom: 20px;
 }
 
 .feature_form, .calender_form {
