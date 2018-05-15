@@ -194,31 +194,32 @@
 			var game = document.createElement('div');
 			game.className = "project";
 			var caption = document.createElement('div');
-			var title = document.createElement('h4');
-			title.innerHTML = projects[i][0];
-			var author = document.createElement('h5');
-			author.innerHTML = projects[i][1] +" <br> " + projects[i][2];
+			var title = document.createElement('div');
+			
+			title.className = "project_name";
+			var author = document.createElement('span');
+			author.innerHTML = projects[i][1];
 			caption.className = "project_caption"
-			author.className = "hover";
+			author.className = "project_author";
 			var tile = document.createElement('div');
 			tile.className = "project_tile";
 			var link = document.createElement('a');
 			link.setAttribute('href', projects[i][3]);
 			link.setAttribute('target', "_blank");
-			
+			link.innerHTML = projects[i][0];
 			link.className = "project_link";
-			link.style.backgroundImage = "url("+projects[i][5]+")";
+			tile.style.backgroundImage = "url("+projects[i][5]+")";
 
 			var description = document.createElement('div');
 			description.innerHTML = projects[i][4];
 			description.className = "project_caption hover-other project_description";
-			tile.appendChild(link);
+			title.appendChild(link);
 
 			game.appendChild(tile);
 			caption.appendChild(title);
-			caption.appendChild(author);
+			link.appendChild(author);
 			game.appendChild(caption);
-			game.appendChild(description);
+			//game.appendChild(description);
 			projects_container.appendChild(game);
 		}
 	}

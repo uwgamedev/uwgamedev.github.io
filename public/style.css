@@ -160,7 +160,7 @@ body {
     display: block;
 }
 
-.purple_text, #feature .game .caption h4, .project_caption h4, .current_week{
+.purple_text, #feature .game .caption h4, .current_week{
 	color:#6715a3;
 }
 
@@ -302,6 +302,10 @@ body {
 	display: inline-block;
 }
 
+.project:hover .project_caption{
+	opacity: 1;
+}
+
 .project h5{
 	font-size: 16px;
 }
@@ -309,20 +313,47 @@ body {
 	/*border: 2px solid #6715a3;*/
 }
 
-.project_caption {
-	margin-left: 0px;
-	color: gray;
-	margin-top: 26px;
-	font-size: 16px;
-}
-
-.project_link {
+.project_tile {
 	width: 200px;
 	height: 200px;
 	display: block;
 	background-size: cover;
     background-position: center center;
 	background-repeat: no-repeat;
+}
+
+.project_caption {
+    position: relative;
+    top: -200px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: rgb(0, 0, 0, 0.8);
+}
+
+.project_caption .project_name{
+    top: 50%;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 20px;
+}
+
+.project_caption .project_author{
+    font-size: 12px;
+    display: block;
+    margin-top: 10px;
+}
+
+.project_link {
+    color: white;
+    text-decoration: none;
 }
 
 .project_description {
@@ -333,17 +364,6 @@ body {
     bottom: -100px;
     transition: 1s;
     display: block;
-}
-
-.project_tile{
-}
-
-.project:hover .hover {
-    display: none;
-}
-.project:hover .hover-other {
-    transition: 1s;
-    bottom: 0;
 }
 
 #project_sort_container{
