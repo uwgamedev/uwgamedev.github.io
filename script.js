@@ -1,4 +1,5 @@
 (function() {
+	const api = "http://uwgamedev.x10host.com/admin/backend/data/";
 	"use strict";
 	var pages;
 	var slideIndex = 0;
@@ -11,11 +12,11 @@
 	window.onload = function() {
 		findPages();
 		projectSortButtons();
-		loadXML("http://uwgamedev.com/admin/backend/data/featured.xml", loadFeatured);
-		loadXML("http://uwgamedev.com/admin/backend/data/projects.xml", loadProjects, 2, true);
-		loadXML("http://uwgamedev.com/admin/backend/data/calender.xml", loadCalender);
-		loadXML("http://uwgamedev.com/admin/backend/data/announcement.txt", loadAnnouncement);
-		loadXML("http://uwgamedev.com/admin/backend/data/slideshow.xml", createSlides);
+		loadXML(api + "featured.xml", loadFeatured);
+		loadXML(api + "projects.xml", loadProjects, 2, true);
+		loadXML(api + "calender.xml", loadCalender);
+		loadXML(api + "announcement.txt", loadAnnouncement);
+		loadXML(api + "slideshow.xml", createSlides);
 		showSlides(1);
 		//var myVar = setTimeout(landingAnimation, 1500);
 	};
@@ -172,9 +173,9 @@
 		projectButtons.push(byAuthor);
 		projectButtons.push(byDate);
 
-		byName.onclick = function(){loadXML("http://uwgamedev.com/admin/backend/data/projects.xml", loadProjects, 0, false);};
-		byAuthor.onclick = function(){loadXML("http://uwgamedev.com/admin/backend/data/projects.xml", loadProjects, 1, false);};
-		byDate.onclick = function(){loadXML("http://uwgamedev.com/admin/backend/data/projects.xml", loadProjects, 2, true);};
+		byName.onclick = function(){loadXML(api + "projects.xml", loadProjects, 0, false);};
+		byAuthor.onclick = function(){loadXML(api + "projects.xml", loadProjects, 1, false);};
+		byDate.onclick = function(){loadXML(api + "projects.xml", loadProjects, 2, true);};
 	}
 
 	// tests the sort projects function. Prints out the order onto the html page 
