@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <calender>
-   
-   
    <event>
-      <title>'How to Start Projects' - Jose</title>
-      <date>2018-04-11</date>
+      <title>First Meeting!</title>
+      <date>2018-10-03</date>
    </event>
    <event>
-      <title>Earth Games Jam</title>
-      <date>2018-04-13</date>
+      <title>Unity Beginner Tutorial</title>
+      <date>2018-10-10</date>
    </event>
    <event>
-      <title>'Talk on Good Physics' - Andrew</title>
-      <date>2018-04-18</date>
+      <title>Weekly Meeting</title>
+      <date>2018-10-17</date>
    </event>
    <event>
-      <title>Ludum Dare Game Jam</title>
-      <date>2018-04-20</date>
+      <title>Weekly Meeting</title>
+      <date>2018-10-24</date>
    </event>
-   
-<event><title>test</title><date>2018-09-14</date></event></calender>
+   <event>
+      <title>Marc Costa</title>
+      <date>2018-10-31</date>
+   </event>
+</calender>
