@@ -1,5 +1,6 @@
 (function() {
-	const api = "http://uwgamedev.x10host.com/admin/backend/data/";
+	// const api = "http://uwgamedev.x10host.com/admin/backend/data/";
+	const api = "http://uwgamedev.com/data/";
 	"use strict";
 	var pages;
 	var slideIndex = 0;

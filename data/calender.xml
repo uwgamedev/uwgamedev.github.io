@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calender>
+   
+   
+   <event>
+      <title>'How to Start Projects' - Jose</title>
+      <date>2018-04-11</date>
+   </event>
+   <event>
+      <title>Earth Games Jam</title>
+      <date>2018-04-13</date>
+   </event>
+   <event>
+      <title>'Talk on Good Physics' - Andrew</title>
+      <date>2018-04-18</date>
+   </event>
+   <event>
+      <title>Ludum Dare Game Jam</title>
+      <date>2018-04-20</date>
+   </event>
+   
+<event><title>test</title><date>2018-09-14</date></event></calender>
