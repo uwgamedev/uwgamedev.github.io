@@ -421,7 +421,7 @@ body {
 	overflow: hidden;
 }
 
-@media only screen and (max-width: 920px) {
+@media only screen and (max-width: 1250px) {
 	#banner, #feature, #main {
 		margin: 0;
 	}
