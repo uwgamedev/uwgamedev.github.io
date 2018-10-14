@@ -24,6 +24,7 @@ body {
 	background-image: radial-gradient(#efefef 5%, #b2b2b2);
 	margin: 0;
 	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
 	
 }
 
@@ -180,7 +181,6 @@ body {
 	margin-left: 10px;
 	margin-right: 10px;
 	line-height: 150%;
-	font-size: 16px;
 }
 
 
@@ -388,7 +388,6 @@ body {
 }
 
 .resource_link {
-	font-size: 16px;
 	margin-top: 10px;
 	width: 80%;
 	padding: 5px;
