@@ -1,10 +1,8 @@
 (function() {
 	// const api = "http://uwgamedev.x10host.com/admin/backend/data/";
-	const api = "http://uwgamedev.com/data/";
+	const api = "./data/";
 	"use strict";
 	var pages;
-	var slideIndex = 0;
-	var slideRepeat;
 
 	var monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
 					  "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
@@ -13,81 +11,10 @@
 	window.onload = function() {
 		findPages();
 		projectSortButtons();
-		loadXML(api + "featured.xml", loadFeatured);
 		loadXML(api + "projects.xml", loadProjects, 2, true);
 		loadXML(api + "calender.xml", loadCalender);
 		loadXML(api + "announcement.txt", loadAnnouncement);
-		loadXML(api + "slideshow.xml", createSlides);
-		showSlides(1);
-		//var myVar = setTimeout(landingAnimation, 1500);
 	};
-
-	function landingAnimation() {
-		//document.getElementById("logo_animation").classList.toggle('closed');
-		document.getElementById("container").style.visibility = "visible";
-	}
-
-	function createSlides() {
-		var images = this.responseXML.querySelectorAll("image");
-		var container = document.getElementById('slideshow');
-		if(images.length > 0) {
-			container.innerHTML = "";
-		}
-		for(var i = 0; i < images.length; i++) {
-			var outerDiv = document.createElement('div');
-			outerDiv.className = "mySlides fade";
-			var index = document.createElement('div');
-			index.innerHTML = "" + (i+1) + " / " + images.length;
-			index.className = "numbertext";
-			var image = document.createElement('img');
-			image.src = images[i].querySelector("source").textContent;
-			image.style.width = "100%";
-			var link = document.createElement('a');
-			link.setAttribute('href', images[i].querySelector("link").textContent);
-			link.setAttribute('target', "_blank");
-			var caption = document.createElement('div');
-			caption.className = "text";
-			caption.innerHTML = images[i].querySelector("caption").textContent;
-			link.appendChild(image);
-			outerDiv.appendChild(index);
-			outerDiv.appendChild(link);
-			outerDiv.appendChild(caption);
-			container.appendChild(outerDiv);
-
-			if(i == 0){
-				outerDiv.style.display = "block";
-			}
-		}
-		var prev = document.createElement('a');
-		prev.className = "prev";
-		prev.onclick = function() { plusSlides(-1);};
-		prev.innerHTML = "&#10094;";
-
-		var next = document.createElement('a');
-		next.className = "next";
-		next.onclick = function() { plusSlides(1);};
-		next.innerHTML = "&#10095;";
-		container.appendChild(prev);
-		container.appendChild(next);
-	}
-
-	function plusSlides(n) {
-		clearTimeout(slideRepeat);
-		showSlides(n);
-	}
-
-	function showSlides(n) {
-	    var i;
-	    var slides = document.getElementsByClassName("mySlides");
-	    for (i = 0; i < slides.length; i++) {
-	        slides[i].style.display = "none"; 
-	    }
-	    slideIndex+=n;
-	    if (slideIndex> slides.length) {slideIndex = 1} 
-	    if (slideIndex == 0) {slideIndex = slides.length-1} 
-	    slides[slideIndex-1].style.display = "block"; 
-	    slideRepeat = setTimeout(function(){showSlides(1);}, 8000); 
-	}
 
 	function loadAnnouncement() {
 		var announcement = document.getElementById("announcement");
@@ -125,41 +52,6 @@
 			} else {
 				pages[temp].style.display = "none";
 			}
-		}
-	}
-
-	function loadFeatured(){
-		var features = this.responseXML.querySelectorAll("feature");
-		var games_container = document.getElementById("games");
-		games_container.innerHTML = "";
-
-		for(var i = 0; i < features.length; i++) {
-			var game = document.createElement('div');
-			var tile = document.createElement('div');
-			var caption = document.createElement('div');
-			var title = document.createElement('h4');
-			var author = document.createElement('h5');
-
-			title.innerHTML = features[i].querySelector("title").textContent;
-			tile.style.backgroundImage = "url("+features[i].querySelector("image_src").textContent+")";
-			author.innerHTML = features[i].querySelector("author").textContent;
-			game.className = "game";
-			tile.className = "tile";
-			caption.className = "caption";
-
-			var link = document.createElement('a');
-			link.setAttribute('href', features[i].querySelector("link").textContent);
-			link.setAttribute('target', "_blank");
-
-			link.className = "feature_link";
-
-
-			game.appendChild(tile);
-			game.appendChild(caption);
-			tile.appendChild(link);
-			caption.appendChild(title);
-			caption.appendChild(author);
-			games_container.appendChild(game);
 		}
 	}
 

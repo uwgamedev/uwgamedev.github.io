@@ -10,7 +10,6 @@
 <link href="https://fonts.googleapis.com/css?family=Saira" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="style.css">
-<link rel="stylesheet" type="text/css" href="slideshow.css">
 <script src="script.js"></script>
 <link rel="icon" 
       type="image/png" 
@@ -24,45 +23,45 @@
 	<div id = "container">
 	<!--HEADERS-->
 	<div id = "banner">
+		<div id ="logo"><div></div></div>
+		<div id ="overlay">
 		<div id = "title">
-		Game Development Club <br> <span class = "purple_text">University of Washington</span>
+		Game Development Club <br> <span>University of Washington</span>
 		</div>
 	</div>
-
-	<div id = "navigation">
-		<ul>
-			<li id = "nav_home">Home</li>
-			<li id = "nav_about">About</li>
-			<li id = "nav_projects">Projects</li>
-			<li id = "nav_resources">Resources</li>
-		</ul>
+		<div id = "navigation" >
+			<ul>
+				<li id = "nav_home">Home</li>
+				<li id = "nav_about">About</li>
+				<li id = "nav_projects">Projects</li>
+				<li id = "nav_resources">Resources</li>
+			</ul>
+		</div>
+		<!-- <div id = "logo"></div> -->
 	</div>
 
+	
 	<!--MAIN CONTENT AREA -->
 	<div id = "main">
 		<!--HOME PAGE-->
 		<div id = "home" class = "fade">
-			<div class="slideshow-container" id ="slideshow">
-			<!--<div class="mySlides fade">
-				    <div class="numbertext">1 / 3</div>
-				    <img src="https://s-media-cache-ak0.pinimg.com/originals/d3/1a/b3/d31ab3abf1fe1463acfff74c2fbf6417.jpg" style="width:100%">
-				    <div class="text">Caption Text</div>
-				</div> -->
-			</div>
-	
 			<div class = "content" >
 				<div class = "head"><h3>Announcments</h3><div class = "bar"></div></div>
 				<div class = "info" id = "announcement">Loading announcement...
 				</div>
 			</div>
 			
-			<div class = "content" id = "calender">
-				<div class = "head"><h3>Calendar</h3><div class = "bar"></div></div>
-				<div id = "events">
-					<ul id = "event_name">
-					Loading Calender...
-					</ul>
-				</div>
+			<div class = "blog" >
+				<div class = "blog-comment">Support the club! Check out this bundle.</div>
+				<a href="https://uw-gamedevclub.itch.io/showcase2" target="_blank">
+					<img src="./images/slideshow/bundle.png"/>
+				</a>
+			</div>
+			<div class = "blog" >
+				<div class = "blog-comment">Congrats to our members! #IndiePrize Best Multiplayer Game!</div>
+				<a href="http://indieprize.org/usa2017/index.html#entry-2" target="_blank">
+					<img src="./images/slideshow/treadnaut_winners.jpg"/>
+				</a>
 			</div>
 		</div>
 
@@ -164,32 +163,34 @@
 			</div>
 		</div>
 	</div>
-	
 
-
-	<!-- FEATURE SIDEBAR -->
-	<div id = feature>
-		<h3>Featured<div class = "bar"></div></h3>
-		<div id = "games">
-			Loading Featured Content...
-			<!--Template
-			<div class = "game">
-				<div class = "tile"></div>
-				<div class = "caption">
-					<h4>Super Dunkman</h4>
-					<h5>Andrew Murray</h5>
-				</div>
-			</div>
-			-->
+	<div id = "right-container">
+		<div class = "content" id = "discord">
+			<a href="http://indieprize.org/usa2017/index.html#entry-2" target="_blank">
+				<img src="./images/discord_logo.png"/>
+			</a>
 		</div>
+		<div class = "content" id = "calendar">
+			<div class = "head"><h3>Calendar</h3><div class = "bar"></div></div>
+			<div id = "events">
+				<ul id = "event_name">
+				Loading Calender...
+				</ul>
+			</div>
+		</div>
+		<div class = "blog" >
+				<div class = "blog-comment">Free Game! by Jose Pacio.</div>
+				<a href="https://store.steampowered.com/app/921700/Crashphalt/" target="_blank">
+					<img src="./images/slideshow/crashphalt.png"/>
+				</a>
+			</div>
 	</div>
 	<div id = "footer">
-		<div class = "contact"> <a href="mailto:uwgamedev@gmail.com">uwgamedev@gmail.com</a></div>
-		<div class = "contact"><a href="https://www.washington.edu/maps/#!/sav">SAVERY HALL 156</a></div>
-		<div class = "contact"><a href="https://www.facebook.com/groups/uwgamedevc/">FACEBOOK</a></div>
-		<div class = "contact"><a href="https://discord.gg/uWQcnHC">DISCORD</a></div>
-		<div class = "contact_fencepost"><a href="https://drive.google.com/folderview?id=0B_29sXJmLbNJZ2pmWG1LSldfMzg&usp=sharing">GOOGLE DRIVE</a></div>
-	</div>
+		<a class = "contact" href="mailto:uwgamedev@gmail.com">uwgamedev@gmail.com</a>
+		<a class = "contact" href="https://www.washington.edu/maps/#!/sav">SAVERY HALL 156</a>
+		<a class = "contact" href="https://www.facebook.com/groups/uwgamedevc/">FACEBOOK</a>
+		<a class = "contact" href="https://discord.gg/uWQcnHC">DISCORD</a>
+		<a class = "contact"href="https://drive.google.com/folderview?id=0B_29sXJmLbNJZ2pmWG1LSldfMzg&usp=sharing">GOOGLE DRIVE</a>
 	</div>
 </body>
 

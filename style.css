@@ -21,9 +21,33 @@ a:hover, #footer a:hover, #navigation ul li:hover {
 
 body {
 	background-color: #3E3E3E;
+	background-image: radial-gradient(#efefef 5%, #b2b2b2);
 	margin: 0;
 	font-family: 'Roboto', sans-serif;
 	
+}
+
+.blog-comment {
+	text-align: center;
+	height: 24px;
+	line-height: 24px;
+	width: 96%;
+	padding: 2%;
+	bottom: 1%;
+	position: absolute;
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(0,0,0,0.8));
+}
+
+.blog img {
+	height: 100%;
+	width: 100%;
+}
+
+.blog {
+	color: white;
+	font-size: 24px;
+	position: relative;
+	text-align: left;
 }
 
 #container {
@@ -31,21 +55,74 @@ body {
 }
 
 #banner {
-	background-color: #FFFFFF;
-	width: 75%;
-	overflow: auto;
-
+	/* background-color: #8043ad; */
+	background-color: black;
+	color: white;
+	width: 100%;
+	height: 500px;
+	position: relative;
+	background-image: url('https://static.jam.vg/raw/f62/z/13e1.png');
+	/* background-image: url('./images/miami_show.gif'); */
+	background-size: cover;
+	 
 }
 
-#banner, #main {
-	margin-left: 12.5%;
-
+#banner, #logo div {
+	background-repeat: no-repeat;
+	background-position: center;
 }
 
- #banner, #feature {
-	margin-right: 12.5%;
-
+@keyframes fade {
+    0% {opacity: 1;}
+    100% {opacity: 0;}
 }
+
+#logo {
+	background-color: white;
+	animation: fade 1s 2s forwards;
+	height: 96%;
+	weight: 100%;
+	/* animation: name duration timing-function delay iteration-count direction fill-mode; */
+	animation-fill-mode: forwards;
+}
+
+#logo div{
+	background-color: black;
+	height: 96%;
+	opacity: 1;
+	background-image: url('logo_animation.gif');
+}
+
+#overlay {
+	background-image: linear-gradient(to top, rgba(255,0,0,0), rgba(0,0,0,0.5));
+}
+
+#overlay, #logo {
+	height: 100%;
+	width: 100%;
+	right: 0;
+	top: 0;
+	position: absolute;
+}
+
+#banner span {
+	color:#efefef;
+}
+
+#right-container {
+	float: left;
+	width: 34%;
+	margin: 1% 1% 1% 0;
+	padding: 0;
+}
+
+#main {
+	float: left;
+	width: 63%;
+	margin: 1%;
+	display: inline;
+}
+
 #title {
 	font-size: 24px;
 	line-height: 80%;
@@ -57,16 +134,15 @@ body {
 	font-size: 14px;
 }
 
-#navigation, #footer {
-	background-color: #212121;
-	color: #C6C6C6;
+#navigation {
+	position: absolute;
+	bottom: 0px;
+	width: 100%;	
 }
 
-#navigation {
-	margin-right: auto;
-	margin-left: auto;
-	width: 75%;
-
+#navigation, #footer {
+	background-color: #232323;
+	color: #e5e5e5;
 }
 
 #navigation ul {
@@ -74,23 +150,21 @@ body {
 	margin: 0px 0px 4px 0px;
 }
 
-#navigation ul li, .contact, .contact_fencepost{
-	font-size: 14px;
+#navigation ul li, .contact{
+	font-size: 18px;
 	display: inline-block;
-	margin: 0px;
+	margin-top: .5%;
+	margin-bottom: .5%;
 	padding: 5px 20px 4px 20px;
-}
-
-#main {
-	width: 47.5%;
-	float: left;
-	display: inline;
 }
 
 .content, #projects_container {
 	background-color: white;
 	padding: 15px;
-	margin-bottom: 5px;
+	margin-bottom: 15px;
+	border-radius: 2px;
+	position: relative;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 
 .content .head{
@@ -109,9 +183,7 @@ body {
 	font-size: 16px;
 }
 
-#calender {
-	padding-right: 0;
-}
+
 
 .current_week {
 }
@@ -144,15 +216,15 @@ body {
 #events .event_title{
 	float: left;
     margin-left: 20px;
-    height: 125px;
-    padding-top: 50px;
+	height: 125px;
+	line-height: 125px;
     font-size: 20px;
 }
 
 .event {
 	overflow: auto;
-	box-shadow: 2px 0px 5px gray;
-    margin-bottom: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #ededed;
 }
 
 .event_month {
@@ -160,7 +232,7 @@ body {
     display: block;
 }
 
-.purple_text, #feature .game .caption h4, .current_week{
+.purple_text, .current_week{
 	color:#6715a3;
 }
 
@@ -168,85 +240,24 @@ body {
 	overflow: hidden;
 }
 
-#feature {
-	width: 26.5%;
-	background-color: white;
-	margin-left: .5%;
-	height: auto;
-	float: right;
-	font-size: 14px;
-	margin-bottom: 50px;
-	overflow: auto;
+#discord {
+	background-color: black;
 }
 
-#feature .game {
-    background-color: white;
-    color: gray;
-    clear: both;
-    width: 100%;
-}
-
-#feature .game .tile {
-	width: 120px;
-	height: 120px;
-	background-repeat: no-repeat;
-	background-color: #929292;
-	background-position: center;
-	background-size: 100% 100%;
-	float: left;
-}
-
-#feature .game .tile, .feature_link{
-	display: block;
-}
-
-.feature_link{
-	height: 100%;
-}
-
-#feature .game .caption {
-	height: 100%;
-	margin-left: 5%;
-	float: left;
-	line-height: 50%
-	padding-top: 30px;
-	width: 55%;
-	font-size: 16px;
-}
-
-#feature .caption h4 {
-	font-size: 20px;
-	margin: 0;
-	margin-top: 25px;
-	font-weight: 200;
-}
-
-#feature .caption h5 {
-	margin: 0;
-	font-weight: 200;
-}
-
-#feature h3{
-	margin-left: 20px;
+#discord img {
+	width: 100%;
 }
 
 #footer {
-    clear: both;
-    width: 100%;
-    overflow: auto;
-    padding: 0% 5% 2% 20%;
+	clear: both;
+	text-align: center;
 }
 
-.contact, .contact_fencepost {
-	float: left;
-	padding: 0;
-	margin-top: 3vh;
-	margin-right: 10%;
+.contact {
+	margin-top: 40px;
+	margin-bottom: 40px;
 }
 
-.contact_fencepost{
-	border-style: none;
-}
 
 .jumbo_image{
 	width: 100%;
@@ -256,28 +267,6 @@ body {
 	background-color: #FFD700;
 	width: 7%;
 	height: 2px;
-}
-
-.logo_animation {
-	background: url('images/logo_animation.gif');
-	background-position: center;
-	background-repeat: no-repeat;
-	background-color: black;
-	background-size: 75%;
-	width: 100%;
-	height: 100vh;
-	display: inline-block;
-
-	overflow-y: hidden;
-	max-height: 100vh; /* approximate max height */
-
-	transition-property: all;
-	transition-duration: 1.5s;
-	transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
-}
-
-.logo_animation.closed {
-	max-height: 0;
 }
 
 #projects_container{
@@ -422,37 +411,23 @@ body {
 }
 
 @media only screen and (max-width: 1250px) {
-	#banner, #feature, #main {
-		margin: 0;
-	}
 
-	.contact, .contact_fencepost {
+	.contact{
 		border: none;
 		padding-left: 20%;
 
 	}
 
-	#main, #navigation, #banner, #feature, .contact, .contact_fencepost {
+	#main, #right-container {
+		width: 98%;
+		margin: 1%;
+	}
+
+	#navigation, .contact{
 		width: 100%;
 	}
 
 
 
 
-}
-
-@media only screen and (max-width: 1250px) {
-	#feature #games .game .tile, #feature #games .game .caption {
-		margin: 0;
-	    margin-left: auto;
-    	margin-right: auto;
-    	float: none;
-	}
-
-	#feature #games .game .caption {
-	    width: 100%;
-	    text-align: center;
-	    margin-bottom: 20px;
-	}
-	    	
 }
