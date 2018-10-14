@@ -1,6 +1,6 @@
 (function() {
 	// const api = "http://uwgamedev.x10host.com/admin/backend/data/";
-	const api = "uwgamedev.com/data/";
+	const api = "./data/";
 	"use strict";
 	var pages;
 
