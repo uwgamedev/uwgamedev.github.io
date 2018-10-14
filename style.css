@@ -26,6 +26,8 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 20px;
 	overflow-x: hidden;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .blog-comment {
@@ -139,6 +141,8 @@ body {
 	position: absolute;
 	bottom: 0px;
 	width: 100%;	
+	padding-left: 0;
+	padding-right: 0;
 	margin-bottom: 0;
 }
 
@@ -422,12 +426,5 @@ body {
 		width: 98%;
 		margin: 1%;
 	}
-
-	#navigation, .contact{
-		width: 100%;
-	}
-
-
-
 
 }
