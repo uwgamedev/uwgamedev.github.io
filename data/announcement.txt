@@ -1,10 +1,9 @@
-<p>Hello everyone! It's time for Game Dev Club to start meetings again! </p>
+<p>Hello everyone, Happy Halloween! Today our meeting will be at 4:30pm as usual, but in <b>MORE 230</b>. It's right across the hall from our usual 221, but we're moving to a bigger room today for a special event! </p>
 
-<p>October 3rd, we'll be having our first meeting for the quarter! Come on down to <b>More 221 at 4:30pm</b> and have a blast with yours truly, the other officers, and other game dev club members. We'll share what we have planned for this quarter, what we do in general, and some past projects we've worked on! We'll also have time to show off anything you've worked on in the past, over the summer, or just want to get feedback on!
-</p>
-<p>
-NEW MEMBERS/PEOPLE WHO WANT TO JOIN THE CLUB:
-There really isn't much you need to do to join, just come on down to the meeting and we'll get you set up! We take all experience levels!
-</p>
+<p>We have industry specialist <b>Marc Costa from Relic Entertainment</b> coming in to give a talk about the video game industry, common game design principles, and about working with game engines! You won't want to miss this one. We'll also have candy because it's Halloween 👻👻👻. </p>
+
+<p>Reminder that this weekend is our quaterly GAME JAM. It's the first one of the year and it is going to be lit. We'll be meeting up on Friday in More 221 at around 5pm and kicking things off at 6. It is a great opportunity to have a product that you can show off, in just one weekend. All of the officers will be available to help out, and you can find groups of people to work with if you don't want to do a solo project by joining our discord and using the new roles to find a team! </p>
+
+<p>With all that out of the way, I hope everyone has a great Halloween, and I hope to see some interesting costumes tomorrow! </p>
 
 <p><em>- Sukeerth, Vice-President </em></p><p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
