@@ -1,9 +1,5 @@
-<p>Hey everyone, Happy Halloween! Today our meeting will be at 4:30pm as usual, but in <b>MORE 230</b>. It's right across the hall from our usual 221, but we're moving to a bigger room today for a special event! </p>
+<p>This week's meeting (Nov. 7) will be a chill day where we go over some of the games people made for the game jam this past weekend and do a little breakdown of how the game jam went and what we've learned!</p>
 
-<p>We have industry specialist <b>Marc Costa from Relic Entertainment</b> coming in to give a talk about the video game industry, common game design principles, and about working with game engines! You won't want to miss this one. We'll also have candy because it's Halloween 👻👻👻. </p>
-
-<p>Reminder that this weekend is our quaterly GAME JAM. It's the first one of the year and it is going to be lit. We'll be meeting up on Friday in More 221 at around 5pm and kicking things off at 6. It is a great opportunity to have a product that you can show off, in just one weekend. All of the officers will be available to help out, and you can find groups of people to work with if you don't want to do a solo project by joining our discord and using the new roles to find a team! </p>
-
-<p>With all that out of the way, I hope everyone has a great Halloween, and I hope to see some interesting costumes tomorrow! </p>
+<p>I'm looking forward to seeing what everyone did! :)</p>
 
 <p><em>- Sukeerth, Vice-President </em></p><p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
