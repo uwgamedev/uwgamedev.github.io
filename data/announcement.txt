@@ -1,3 +1,3 @@
-<p>This week (Feb. 13) Jose and I will be teaching you how to design sounds for your game, and how to implement it in Unity!</p>
+<p>This week (Feb. 20), Cameron, Jose and I will be taking you through various technical applications to juice up your games!</p>
 
 <p><em>- Sukeerth, Vice-President </em></p><p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
