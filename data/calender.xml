@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <calender>
    <event>
-      <title>First Meeting!</title>
-      <date>2019-10-02</date>
+      <title>Intro + Design Bytes</title>
+      <date>2020-01-08</date>
    </event>
    <event>
       <title>Unity Beginner Tutorial</title>
-      <date>2019-10-09</date>
+      <date>2020-01-15</date>
    </event>
    <event>
-      <title>Getting Ready to Jam</title>
-      <date>2019-10-16</date>
-   </event>
-   <event>
-      <title>GAME JAM: First Day</title>
-      <date>2019-10-18</date>
+      <title>GAME JAM: Start</title>
+      <date>2020-01-17</date>
    </event>
    <event>
       <title>GAME JAM: Last Day</title>
-      <date>2019-10-21</date>
+      <date>2020-01-20</date>
    </event>
    <event>
       <title>Jam Showcase</title>
-      <date>2019-10-23</date>
+      <date>2020-01-22</date>
    </event>
    <event>
-      <title>How to not get Ghosted</title>
-      <date>2019-10-30</date>
+      <title>Unity Field Trip</title>
+      <date>2020-01-29</date>
    </event>
    <event>
-      <title>Juice (very important)</title>
-      <date>2019-11-06</date>
+      <title>Principles of Animation</title>
+      <date>2020-02-05</date>
    </event>
    <event>
-      <title>Scope</title>
-      <date>2019-11-13</date>
+      <title>Blender and Love?</title>
+      <date>2020-02-12</date>
    </event>
    <event>
-      <title>Sound</title>
-      <date>2019-11-20</date>
+      <title>Shine's Surprise</title>
+      <date>2020-02-19</date>
    </event>
    <event>
-      <title>-No meeting!-</title>
-      <date>2019-11-27</date>
+      <title>Rapid Prototyping</title>
+      <date>2020-02-26</date>
    </event>
    <event>
-      <title>Pizza Party!</title>
-      <date>2019-12-04</date>
+      <title>Version Control</title>
+      <date>2020-03-04</date>
+   </event>
+   <event>
+      <title>Pizza Day!</title>
+      <date>2020-03-11</date>
    </event>
 </calender>
