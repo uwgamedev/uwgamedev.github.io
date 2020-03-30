@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <calender>
    <event>
-      <title>Intro + Design Bytes</title>
-      <date>2020-01-08</date>
+      <title>Introduction/Tech trial</title>
+      <date>2020-04-01</date>
    </event>
    <event>
-      <title>Unity Beginner Tutorial</title>
-      <date>2020-01-15</date>
+      <title>Unity Intermediate Tutorial</title>
+      <date>2020-04-08</date>
+   </event>
+   <event>
+      <title>Version Control Basics</title>
+      <date>2020-04-15</date>
+   </event>
+   <event>
+      <title>Engines</title>
+      <date>2020-04-22</date>
    </event>
    <event>
       <title>GAME JAM: Start</title>
-      <date>2020-01-17</date>
+      <date>2020-04-24</date>
    </event>
    <event>
       <title>GAME JAM: Last Day</title>
-      <date>2020-01-20</date>
+      <date>2020-04-26</date>
    </event>
    <event>
-      <title>Jam Showcase</title>
-      <date>2020-01-22</date>
+      <title>Game Jam Showcase</title>
+      <date>2020-04-29</date>
    </event>
    <event>
-      <title>Modelling in Blender</title>
-      <date>2020-01-29</date>
+      <title>Music Talk</title>
+      <date>2020-05-06</date>
    </event>
    <event>
-      <title>Animation in Blender</title>
-      <date>2020-02-05</date>
+      <title>Graphics</title>
+      <date>2020-05-13</date>
    </event>
    <event>
-      <title>Shine's Surprise</title>
-      <date>2020-02-12</date>
+      <title>Art Talk</title>
+      <date>2020-05-20</date>
    </event>
    <event>
-      <title>Principles of Animation</title>
-      <date>2020-02-21</date>
+      <title>Narrative/Storytelling</title>
+      <date>2020-05-27</date>
    </event>
    <event>
-      <title>Rapid Prototyping</title>
-      <date>2020-02-26</date>
-   </event>
-   <event>
-      <title>Incremental Games</title>
-      <date>2020-03-04</date>
-   </event>
-   <event>
-      <title>Pizza Day!</title>
-      <date>2020-03-11</date>
+      <title>TBD</title>
+      <date>2020-06-03</date>
    </event>
 </calender>
