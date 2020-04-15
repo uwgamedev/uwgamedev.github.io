@@ -1,5 +1,4 @@
-<p>The first meeting of the quarter will be taking place in THIS DISCORD SERVER in the GDC WATCHES voice channel. The officers will be streaming the meeting slides where the officers will be introducing themselves and the technology will, in general, be tested. If you have any ideas about how this quarter should be run, here is an opportunity to do it: some google forms to fill out and let your voice be heard with.</p>
-<p><a href="https://forms.gle/UfPmWzRap98wCsW18">General</a></p>
-<p><a href="https://forms.gle/vcXyEoCP9oUECUeH9">Programming Talk Ideas</a></p>
+<p>The third meeting of the quarter will be taking place in the discord server as per usual in the MORE220 voice channel. We will be giving an informational talk on version control and the basics for what you'll need to know if you wanna work collaboratively online or just have a cleaner workflow. We will be covering things like Git and GitHub, so if you haven't already you can install Git using the link below.</p>
+<p><a href="https://gitforwindows.org/">Git for Windows</a></p>
 
-<p><em>- Cameron, President </em></p><p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
+<p><em>- Thomas, Vice-President </em></p><p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
