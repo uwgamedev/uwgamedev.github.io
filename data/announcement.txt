@@ -1,4 +1,7 @@
-<p>The third meeting of the quarter will be taking place in the discord server as per usual in the MORE220 voice channel. We will be giving an informational talk on version control and the basics for what you'll need to know if you wanna work collaboratively online or just have a cleaner workflow. The online quarter is the perfect time to learn about version control. VC software like Git help you collaborate online by allowing multiple people to edit copies of a project and then upload those changes to a master project. Since we will be covering things like Git and GitHub, so if you haven't already you can install Git using the link below.</p>
-<p><a href="https://gitforwindows.org/">Git for Windows</a></p>
+<p>Ludem Dare not enough for you? Get HYPED for the upcoming Game Jam starting <i>this Friday,</i> the 24th in the More220 channel at 5pm. There will be virtual pizza and a theme to get those creative game juices a flowin'.</p>
+<br />
+<p>Given the online format of this Jam, it may be harder than usual to find a group to Jam <i>with.</i> For that, we have created a matchmaking form that will help with just that. Simply fill out <a href="https://forms.gle/5wMVTgzvmWimMbAt7" target="_blank">this linked form</a> <b>if you want a group and do not have one</b> and our expert officers will do our best to match you with your ideal partner(s) in crime!
 
-<p><em>- Thomas, Vice-President </em></p><p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
+<p><em>- Cameron, President </em></p>
+
+<p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
