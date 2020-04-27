@@ -1,5 +1,6 @@
-<p>Ludem Dare not enough for you? Get HYPED for the upcoming Game Jam starting <i>this Friday,</i> the 24th in the More220 channel at 5pm. There will be virtual pizza and a theme to get those creative game juices a flowin'.</p>
-<p>Given the online format of this Jam, it may be harder than usual to find a group to Jam <i>with.</i> For that, we have created a matchmaking form that will help with just that. Simply fill out <a href="https://forms.gle/5wMVTgzvmWimMbAt7" target="_blank">this linked form</a> <b>if you want a group and do not have one</b> and our expert officers will do our best to match you with your ideal partner(s) in crime!
+<p>The jam is coming to a close, which can only mean one thing. It means next meeting (4/29) is dedicated entirely to showing off the fruits of your labor!</p>
+<p>We made a form for you to fill out in preparation for the showcase format. You can opt to send your compiled game to us, so that you get the experience of watching someone else try your game. Alternatively, you can opt not to send, and to stream/show it off from your own perspective! Form is here:</p>
+<a href="https://forms.gle/zkSsAA7cDZkDZwzr8" target="_blank">Jam Game Showcase Form</a>
 
 <p><em>- Cameron, President </em></p>
 
