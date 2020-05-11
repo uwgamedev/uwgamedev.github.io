@@ -1,6 +1,6 @@
-<p>The jam is coming to a close, which can only mean one thing. It means next meeting (4/29) is dedicated entirely to showing off the fruits of your labor!</p>
-<p>We made a form for you to fill out in preparation for the showcase format. You can opt to send your compiled game to us, so that you get the experience of watching someone else try your game. Alternatively, you can opt not to send, and to stream/show it off from your own perspective! Form is here:</p>
-<a href="https://forms.gle/zkSsAA7cDZkDZwzr8" target="_blank">Jam Game Showcase Form</a>
+<p>We did it. We finally decided to make a graphics talk.</p>
+<p>If you want to hear about something specific in the broad art of graphics, comment below:</p>
+<a href="https://forms.gle/GwM6CLZDUo1QasF77" target="_blank">Graphics Google Form</a>
 
 <p><em>- Cameron, President </em></p>
 
