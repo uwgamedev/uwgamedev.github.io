@@ -1,4 +1,4 @@
-<p>It's Wednesday my dudes. That means another weekly meeting 4:30pm today, this time hosted by your neighborhood math officer, Shine. Tune in later today (4:30pm) in the More220 voice channel for an overview of graphics/shaders!</p>
-<p><em>- Cameron, President </em></p>
+<p>Hey everyone, the quarter's almost over and so we got one more talk for you guys. This time we'll be having a talk on narrative and storytelling, hosted by myslef, Thomas, and Chu. Tune in this Wednesday (4:30pm) in the More220 voice channel for an in-depth analysis on storytelling and tips you can apply to your own projects.</p>
+<p><em>- Thomas, Vice-President </em></p>
 
 <p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
