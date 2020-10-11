@@ -1,8 +1,19 @@
-<p>Game Dev Club will be firing back up October 7, to introduce yourself to new and old members alike we will be opening up with Design Bytes! Show your love for a game of your choice in Design Bytes showcase, where you can show off any aspect of a game of your choosing! To participate, just sign up using the form linked below:</p>
+<p>Quick reminder that the <strong>beginner/intermediate tutorials</strong> are happening THIS WEEK (Wed, 4:30 pm pdt, #220 channels). As these tutorials run pretty long, we ask that everyone comes to the tutorial with the required software pre-installed.</p>
 
-<a href ="https://docs.google.com/forms/d/e/1FAIpQLSccZKdU_5zK4wb4Tl0Vif9k_823lboCEfMrDzYztdp3U1yvAQ/viewform?usp=sf_link" target="_blank">Survey</a></p>
+<p><strong>If you are doing the Unity (beginner) tutorial:</strong></p>
+<ol>
+	<li><a href="https://unity3d.com/get-unity/download" target="_blank">Download Unity hub</a></li>
+	<li>Within Unity hub, download the latest version of the Unity editor</li>
+	<li>Ensure that you install Visual Studio+Unity tools for it when installing the editor</li>
+	<li>Make sure to launch the editor at least once (to let it perform initial startup tasks)</li>
+	<li>Launch Visual Studio from within Unity</li>
+</ol>
 
-<p>Prepare your slide and please keep it between 1-2 minutes, you will have your opportunity to present this next Wednesday, October 7</p>
+<p>If you are doing the Godot (intermediate) tutorial, your job is <em>a bit</em> easier:</p>
+<a href="https://godotengine.org/download/windows" target="_blank">Download and install the standard version of godot</a>
+<br>
+<p>If you are stuck, feel free to ping one of the officers for assistance (in our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server!</a>)</p>
+<br>
 <p><em>- Cameron, President </em></p>
 
 <p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
