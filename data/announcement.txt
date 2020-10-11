@@ -1,7 +1,9 @@
-<p>We did it. We finally decided to make a graphics talk.</p>
-<p>If you want to hear about something specific in the broad art of graphics, comment below:</p>
-<a href="https://forms.gle/GwM6CLZDUo1QasF77" target="_blank">Graphics Google Form</a>
-
+<p>Lots of stuff to get into in this one so get a chair. First and foremost, I gotta tell you about the awesome Music Talk being given in #More220 for this week's 4:30pm meeting. Ben will be giving insights into how he approaches making music for games, so definitely be there if you are a programming one-trick-pony like myself who is looking to branch out a bit!</p>
+<p>Currently, the ongoing situation prevents us from holding any in-person showcase events this quarter. This is a shame, given the  all of the quality games I've seen being built recently. As such, we have two ways to get even a little bit of outside exposure for these games:</p>
+<p>Firstly, there is the GDC website, which you can get your game and link to your personal page onto using this form: <a href="https://forms.gle/b16iDKm8z1idNZmu6"target="_blank">Game Showcase Form</a> We actually have a pretty decent domain name for this website that people looking for game development at UW are likely to come across in a simple google search. It is definitely an underutilized resource in our club for getting exposure.</p>
+<p>The second resource we have is provided in collaboration with WGA. They are looking to do a weekly Content Creator Hightlight featuring members of the UW community who create any type of creative content. The highlight will include a twitter post from their 3000+ follower account, so this is an absolutely fantastic way to get your games out there; apply here</p>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeKAcVHiVNQVmZLEK8X1SirISTTlHuYnS0wC4cWGsRAb4CrQA/viewform"target="_blank">Link</a>
+<p>Outside perspective is key in iterating on your games, so I HIGHLY ENCOURAGE YOU TO PUT ALL YOUR GAMES, NEW AND OLD, THROUGH BOTH OF THESE FORMS</p>
 <p><em>- Cameron, President </em></p>
 
 <p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
