@@ -1,6 +1,13 @@
-<p>Time for another weekly meeting announcement, this time about a character design talk!</p>
+<p>Multipart announcement coming in hot!!
+1. This week’s talk will be a juice talk, given by former GDC president Andrew! For those of us who are #outoftheloop, game juice is a term used amongst club members to refer to a class of enhancements you can apply to your game to quickly make it look and feel more polished and fun! It is a longstanding game dev tradition that we hold this talk, so definitely tune in at the regular time (Wed, 4:30 pm, #More220 channel)</p>
 
-<p>Do you want to know how to design $1000 dollar jpgs that whales will roll for? Come attend this week's character design talk, given by local game dev officer, Chu.</p>
+<p>2. The quarterly game jam is just around the corner, and is happening November 6th-8th! </p>
+
+<p>[pssst… a game jam is like a hackathon; you are given a theme and a weekend to create a new game start to finish (in a team or solo)]</p>
+
+<p>See graphic for more details!</p>
+
+<img src="jam_promo_fall2020.png" alt="Game Jam Poster" width="40%" height="40%">
 
 <p><em>- Cameron, President </em></p>
 
