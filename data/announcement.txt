@@ -7,7 +7,7 @@
 
 <p>See graphic for more details!</p>
 
-<a href="image/jam_promo_fall2020.png"><img src="images/jam_promo_fall2020.png" alt="Game Jam Poster" width="60%" height="60%"></a>
+<img src="images/jam_promo_fall2020.png" alt="Game Jam Poster" width="75%" height="75%">
 
 <p><em>- Cameron, President </em></p>
 
