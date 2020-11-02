@@ -1,11 +1,8 @@
-<p>Multipart announcement coming in hot!!
-1. This week’s talk will be a juice talk, given by former GDC president Andrew! For those of us who are #outoftheloop, game juice is a term used amongst club members to refer to a class of enhancements you can apply to your game to quickly make it look and feel more polished and fun! It is a longstanding game dev tradition that we hold this talk, so definitely tune in at the regular time (Wed, 4:30 pm, #More220 channel)</p>
+<p>Just wanted to remind everyone that this is the week of the quarterly game jam (starts Fri, Nov 6th at 5pm in #More220). To get y’all prepared for the jam, us officers have prepared a Jam tips n’ tricks presentation that you can tune into on Wed, Nov 4th in the same place as usual. 
 
-<p>2. The quarterly game jam is just around the corner, and is happening November 6th-8th! </p>
+If you want to participate in the jam, but don’t want to do it alone/need a team, you can fill out this form <a href="https://forms.gle/3iKqoVzEbSQ3uT1g9">https://forms.gle/3iKqoVzEbSQ3uT1g9</a> to get matched with a balanced team of fellow club members. Just make sure to act fast, as we will be closing this form Thursday night so officers have time to do the sorting and notify the teams!</p>
 
 <p>[pssst… a game jam is like a hackathon; you are given a theme and a weekend to create a new game start to finish (in a team or solo)]</p>
-
-<p>See graphic for more details!</p>
 
 <img src="images/jam_promo_fall2020.png" alt="Game Jam Poster" width="75%" height="75%">
 
