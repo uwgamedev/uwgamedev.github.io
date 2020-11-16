@@ -1,11 +1,9 @@
-<p>Just wanted to remind everyone that this is the week of the quarterly game jam (starts Fri, Nov 6th at 5pm in #More220). To get y’all prepared for the jam, us officers have prepared a Jam tips n’ tricks presentation that you can tune into on Wed, Nov 4th in the same place as usual. 
+<p>Coming up this Wednesday, I'll be turning the club into a jam session (not the game kind) and showing off the basics of Bosca Ceoil!</p>
+<p>It's gonna be a time to chill out and I can show my process on how I make music.</p>
 
-If you want to participate in the jam, but don’t want to do it alone/need a team, you can fill out this form <a href="https://forms.gle/3iKqoVzEbSQ3uT1g9">https://forms.gle/3iKqoVzEbSQ3uT1g9</a> to get matched with a balanced team of fellow club members. Just make sure to act fast, as we will be closing this form Thursday night so officers have time to do the sorting and notify the teams!</p>
+<p>Tune into GameDevClub radio in More 220 at 4:30 PST this Wednesday</p>
+<p>If you want to try Bosca Ceoil out for yourself before the meeting you can get it for free from here: <a href="https://boscaceoil.net/">Bosca Ceoil</a></p>
 
-<p>[pssst… a game jam is like a hackathon; you are given a theme and a weekend to create a new game start to finish (in a team or solo)]</p>
-
-<img src="images/jam_promo_fall2020.png" alt="Game Jam Poster" width="75%" height="75%">
-
-<p><em>- Cameron, President </em></p>
+<p><em>- Ben, Officer </em></p>
 
 <p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
