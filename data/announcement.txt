@@ -2,7 +2,7 @@
 <p>It's gonna be a time to chill out and I can show my process on how I make music.</p>
 
 <p>Tune into GameDevClub radio in More 220 at 4:30 PST this Wednesday</p>
-<p>If you want to try Bosca Ceoil out for yourself before the meeting you can get it for free from here: <a href="https://boscaceoil.net/">Bosca Ceoil</a></p>
+<p>If you want to try Bosca Ceoil out for yourself before the meeting you can get it for free from here: <a href="https://boscaceoil.net/" target="_blank">Bosca Ceoil</a></p>
 
 <p><em>- Ben, Officer </em></p>
 
