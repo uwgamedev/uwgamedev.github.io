@@ -1,9 +1,11 @@
-<p>Coming up this Wednesday, I'll be turning the club into a jam session (not the game kind) and showing off the basics of Bosca Ceoil!</p>
-<p>It's gonna be a time to chill out and I can show my process on how I make music.</p>
+<p>Greetings everyone!</p>
 
-<p>Tune into GameDevClub radio in More 220 at 4:30 PST this Wednesday</p>
-<p>If you want to try Bosca Ceoil out for yourself before the meeting you can get it for free from here: <a href="https://boscaceoil.net/" target="_blank">Bosca Ceoil</a></p>
+<p>Another week, another fantastic talk lined up! This time, it will be a Unity animation+events tutorial, feat. Knuckles from the Sonic franchise (given by yours truly).</p> 
 
-<p><em>- Ben, Officer </em></p>
+<p>As always, it will take place on Wednesday, 4:30pm pst in the #More220 voice channel.</p>
+
+<p>Hope everyone has a wonderful socially-distanced Thanksgiving!</p>
+
+<p><em>- Cameron, Vice-President </em></p>
 
 <p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
