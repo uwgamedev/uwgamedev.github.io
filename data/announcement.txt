@@ -1,11 +1,9 @@
-<p>Greetings everyone!</p>
+<p>Hello everyone!</p>
 
-<p>Another week, another fantastic talk lined up! This time, it will be a Unity animation+events tutorial, feat. Knuckles from the Sonic franchise (given by yours truly).</p> 
+<p>This week we have a very exciting presentation given by former GDC president, current cofounder of AggroCrab games (<a href="https://twitter.com/AggroCrabGames" target="_blank">AggroCrabGames Twitter</a>)! Stop by to learn from the source what it is like to start your own indie studio, get published, start a brand, and more!
 
-<p>As always, it will take place on Wednesday, 4:30pm pst in the #More220 voice channel.</p>
+The floor will be open to questions so be sure to bring some! You can also submit them to this convenient <a href="https://forms.gle/DLWGmxTAsFxyBSsZ7" target="_blank">google form</a>
 
-<p>Hope everyone has a wonderful socially-distanced Thanksgiving!</p>
-
-<p><em>- Cameron, Vice-President </em></p>
+<p><em>- Cameron, President</em></p>
 
 <p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
