@@ -1,7 +1,12 @@
 <p>Hello everyone!</p>
 
-<p>The quarter is now over. Despite our current situation, I hope everyone had a good time this quarter. We saw some really great games come out of our quarterly game jam and we hope to see more! Thanks for staying around with us. See you guys next quarter!</p>
+<p>Another quarter is starting, meaning more juicy Game Dev Club meetings! This Wednesday (at 4:30pm pst in the #More220 voice channel), tune in and catch up with the GDC gang. We will be breaking ice and showing off the games people made over the winter break jam!</p>
 
-<p><em>- Thomas, Vice-president</em></p>
+<p>If you are planning on presenting a game, consider filling out this form to have Esau try it out/play it live!</p>
+<p><a href="https://forms.gle/JLza7ic6gXbW5cjJ7" target="_blank">Link to form</a></p>
+
+<p>Can’t wait to see what people have come up with!</p>
+
+<p><em>- Sam, Officer</em></p>
 
 <p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
