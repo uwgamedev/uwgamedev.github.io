@@ -1,51 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <calender>
    <event>
-      <title>Design Bytes/Club Intro</title>
-      <date>2020-10-07</date>
-   </event>
-   <event>
-      <title>Unity Tutorial + Godot tutorial</title>
-      <date>2020-10-14</date>
-   </event>
-   <event>
-      <title>Character design</title>
-      <date>2020-10-21</date>
-   </event>
-   <event>
-      <title>Juice Talk</title>
-      <date>2020-10-28</date>
-   </event>
-   <event>
-      <title>Game Jam tips and tricks</title>
-      <date>2020-11-04</date>
-   </event>
-   <event>
-      <title>GAME JAM: First Day</title>
-      <date>2020-11-06</date>
-   </event>
-   <event>
-      <title>GAME JAM: Last Day</title>
-      <date>2020-11-08</date>
-   </event>
-   <event>
-      <title>Game Jam Showcase</title>
-      <date>2020-11-11</date>
-   </event>
-   <event>
-      <title>Music talk</title>
-      <date>2020-11-18</date>
-   </event>
-   <event>
-      <title>Animation + Events (in Unity)</title>
-      <date>2020-11-25</date>
-   </event>
-   <event>
-      <title>Surprise</title>
-      <date>2020-12-02</date>
+      <title>Winter Jam Showcase</title>
+      <date>2021-01-13</date>
    </event>
    <event>
       <title>TBD</title>
-      <date>2020-12-09</date>
+      <date>2021-01-20</date>
+   </event>
+   <event>
+      <title>TBD</title>
+      <date>2021-01-27</date>
+   </event>
+   <event>
+      <title>TBD</title>
+      <date>2021-02-03</date>
+   </event>
+   <event>
+      <title>TBD</title>
+      <date>2021-02-10</date>
+   </event>
+   <event>
+      <title>TBD</title>
+      <date>2021-02-17</date>
+   </event>
+   <event>
+      <title>TBD</title>
+      <date>2021-02-24</date>
+   </event>
+   <event>
+      <title>TBD</title>
+      <date>2021-03-03</date>
+   </event>
+   <event>
+      <title>TBD</title>
+      <date>2021-03-10</date>
    </event>
 </calender>
