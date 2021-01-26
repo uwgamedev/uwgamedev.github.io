@@ -1,12 +1,11 @@
 <p>Hello everyone!</p>
 
-<p>Another quarter is starting, meaning more juicy Game Dev Club meetings! This Wednesday (at 4:30pm pst in the #More220 voice channel), tune in and catch up with the GDC gang. We will be breaking ice and showing off the games people made over the winter break jam!</p>
+<p>A quick reminder that this Wednesday will be a Design Bytes meeting, meaning that you have the opportunity to rant about your (most/least) favorite games and their design! Yes, that is right! We are opening the floor for design byte roasts (in which you point out games that have bad design decisions)
 
-<p>If you are planning on presenting a game, consider filling out this form to have Esau try it out/play it live!</p>
-<p><a href="https://forms.gle/JLza7ic6gXbW5cjJ7" target="_blank">Link to form</a></p>
+<a href="https://forms.gle/YBref5mwGDhabEiJ9" target="_blank">Google Form Here</a></p>
 
-<p>Can’t wait to see what people have come up with!</p>
+<p>On an unrelated note, a number of GDC officers will be retiring in the next quarter or two. This means new officer spots are opening up, and you can apply <a href="https://forms.gle/D1h192G1ttxQK6ySA" target="_blank">here</a> to become one!</p>
 
-<p><em>- Sam, Officer</em></p>
+<p><em>- Cameron, President</em></p>
 
 <p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
