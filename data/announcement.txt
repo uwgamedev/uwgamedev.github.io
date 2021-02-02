@@ -1,10 +1,12 @@
 <p>Hello everyone!</p>
 
-<p>A quick reminder that this Wednesday will be a Design Bytes meeting, meaning that you have the opportunity to rant about your (most/least) favorite games and their design! Yes, that is right! We are opening the floor for design byte roasts (in which you point out games that have bad design decisions)
+<p>Reminder of the weekly meeting happening Wednesday at the usual place and time (#More220 discord channel, 4:30pm pst)</p>
 
-<a href="https://forms.gle/YBref5mwGDhabEiJ9" target="_blank">Google Form Here</a></p>
+<p>This week will be a crash course in how to use Unity editor scripts, given by yours truly</p>
 
-<p>On an unrelated note, a number of GDC officers will be retiring in the next quarter or two. This means new officer spots are opening up, and you can apply <a href="https://forms.gle/D1h192G1ttxQK6ySA" target="_blank">here</a> to become one!</p>
+<p>Unity editor scripts let you extend the Unity Editor, with fully customizable inspectors, gizmos, and windows to help you tweak your game to perfection! Hope to see you all there!</p>
+
+<p>"Make your scripts look nice and cleeean in the unity engine" -Esau</p>
 
 <p><em>- Cameron, President</em></p>
 
