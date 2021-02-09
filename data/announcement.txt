@@ -1,12 +1,14 @@
 <p>Hello everyone!</p>
 
-<p>Reminder of the weekly meeting happening Wednesday at the usual place and time (#More220 discord channel, 4:30pm pst)</p>
+<p>We're gonna step back from the code this week for a more game design focused talk! Get your dodge rolls ready for a boss battle design talk!</p>
 
-<p>This week will be a crash course in how to use Unity editor scripts, given by yours truly</p>
+<p>I'll hope to tackle what makes an interesting boss fight, and also some tips on designing a boss of your own (which could help for our future game jam)!</p>
 
-<p>Unity editor scripts let you extend the Unity Editor, with fully customizable inspectors, gizmos, and windows to help you tweak your game to perfection! Hope to see you all there!</p>
+<p>Speaking of the game jam, we're doing theme voting again! Go check out <a href="https://docs.google.com/forms/d/1ujS17MKOUd_hrMQbNgEl3rsdaNqXmAooL13H1RTmZbY/edit" target="_blank">this form</a></p>
 
-<p>"Make your scripts look nice and cleeean in the unity engine" -Esau</p>
+<p>Reminder the game jam will start on the 26th!</p>
+
+<p>As always we'll be in #more220 at 4:30!</p>
 
 <p><em>- Cameron, President</em></p>
 
