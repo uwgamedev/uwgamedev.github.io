@@ -4,7 +4,7 @@
 
 <p>I'll hope to tackle what makes an interesting boss fight, and also some tips on designing a boss of your own (which could help for our future game jam)!</p>
 
-<p>Speaking of the game jam, we're doing theme voting again! Go check out <a href="https://docs.google.com/forms/d/1ujS17MKOUd_hrMQbNgEl3rsdaNqXmAooL13H1RTmZbY/edit" target="_blank">this form</a></p>
+<p>Speaking of the game jam, we're doing theme voting again! Go check out <a href="https://forms.gle/MxvSckZgYqjTvH9Z6" target="_blank">this form</a></p>
 
 <p>Reminder the game jam will start on the 26th!</p>
 
