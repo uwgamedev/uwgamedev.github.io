@@ -1,14 +1,12 @@
-<p>Hello everyone!</p>
+<p>Hey everyone!</p>
 
-<p>We're gonna step back from the code this week for a more game design focused talk! Get your dodge rolls ready for a boss battle design talk!</p>
+<p>This week we will be having a special guest talk on Narrative Design from ex GDC officer @ Emily! Emily has been a huge contributor to GDC over her time as officer, maybe you remember her talk about not getting ghosted? She also coordinated the trips to Unity and Valve offices in Bellevue. Now, Emily works as a narrative and level designer at Tencent games!</p>
 
-<p>I'll hope to tackle what makes an interesting boss fight, and also some tips on designing a boss of your own (which could help for our future game jam)!</p>
+<p>In her dark GDC past, she was known as the ANTI-ANIME officer, and a lover of hollow knight</p>
 
-<p>Speaking of the game jam, we're doing theme voting again! Go check out <a href="https://forms.gle/MxvSckZgYqjTvH9Z6" target="_blank">this form</a></p>
-
-<p>Reminder the game jam will start on the 26th!</p>
-
-<p>As always we'll be in #more220 at 4:30!</p>
+<p>Another reminder of the:
+- <a href="https://forms.gle/ScAN92umug8aKKpK7" target="_blank">Jam submission form</a>
+- <a href="https://forms.gle/DcG37Z7cuFyK4gqL7" target="_blank">Officer applications</a></p>
 
 <p><em>- Cameron, President</em></p>
 
