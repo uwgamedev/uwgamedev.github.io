@@ -1,12 +1,12 @@
 <p>Hey everyone!</p>
 
-<p>This week we will be having a special guest talk on Narrative Design from ex GDC officer @ Emily! Emily has been a huge contributor to GDC over her time as officer, maybe you remember her talk about not getting ghosted? She also coordinated the trips to Unity and Valve offices in Bellevue. Now, Emily works as a narrative and level designer at Tencent games!</p>
+<p>This week we will be having a special guest talk on Narrative Design from ex GDC officer Emily! Emily has been a huge contributor to GDC over her time as officer, maybe you remember her talk about not getting ghosted? She also coordinated the trips to Unity and Valve offices in Bellevue. Now, Emily works as a narrative and level designer at Tencent games!</p>
 
 <p>In her dark GDC past, she was known as the ANTI-ANIME officer, and a lover of hollow knight</p>
 
 <p>Another reminder of the:
-- <a href="https://forms.gle/ScAN92umug8aKKpK7" target="_blank">Jam submission form</a>
-- <a href="https://forms.gle/DcG37Z7cuFyK4gqL7" target="_blank">Officer applications</a></p>
+<br>- <a href="https://forms.gle/ScAN92umug8aKKpK7" target="_blank">Jam submission form</a>
+<br>- <a href="https://forms.gle/DcG37Z7cuFyK4gqL7" target="_blank">Officer applications</a></p>
 
 <p><em>- Cameron, President</em></p>
 
