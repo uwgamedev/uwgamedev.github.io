@@ -1,12 +1,10 @@
-<p>Hey everyone!</p>
+<p>Heyo everyone!</p>
 
-<p>This week we will be having a special guest talk on Narrative Design from ex GDC officer Emily! Emily has been a huge contributor to GDC over her time as officer, maybe you remember her talk about not getting ghosted? She also coordinated the trips to Unity and Valve offices in Bellevue. Now, Emily works as a narrative and level designer at Tencent games!</p>
+<p>This week's meeting will be an introduction to Unity COMPUTE SHADERS given by yours truly! I'll be going over what they are and how you can use them to make your game BIGGER, and showing some interesting demos! Be there: 4:30pm pst in #More220</p>
 
-<p>In her dark GDC past, she was known as the ANTI-ANIME officer, and a lover of hollow knight</p>
+<p>Just like yall asked for, the end of the quarter is coming up and that means GAME JAM TIME (starting this Friday, the 26th)!!!! Since you guys wanted to keep your freedom of voting (smh my head) we're sending out voting forms based off what you all suggested! It'll be open until after the Wednesday meeting so make sure to VOTE FAST!</p>
 
-<p>Another reminder of the:
-<br>- <a href="https://forms.gle/ScAN92umug8aKKpK7" target="_blank">Jam submission form</a>
-<br>- <a href="https://forms.gle/DcG37Z7cuFyK4gqL7" target="_blank">Officer applications</a></p>
+<p>Vote <a href="https://forms.gle/dtfbSbtPaZ5yjMFD7" target="_blank">here</a></p>
 
 <p><em>- Cameron, President</em></p>
 
