@@ -1,10 +1,10 @@
-<p>Heyo everyone!</p>
+<p>Hey everyone, couple quick reminders before the jam showcase on Wednesday!</p>
 
-<p>This week's meeting will be an introduction to Unity COMPUTE SHADERS given by yours truly! I'll be going over what they are and how you can use them to make your game BIGGER, and showing some interesting demos! Be there: 4:30pm pst in #More220</p>
+<p>The pro-gamer officer, Thomas, will be playing game jam games. If you'd like Thomas to play test your game during the meeting, submit this form:</p>
 
-<p>Just like yall asked for, the end of the quarter is coming up and that means GAME JAM TIME (starting this Friday, the 26th)!!!! Since you guys wanted to keep your freedom of voting (smh my head) we're sending out voting forms based off what you all suggested! It'll be open until after the Wednesday meeting so make sure to VOTE FAST!</p>
+<p>If you'd like to present your game yourself, that's rad too!</p>
 
-<p>Vote <a href="https://forms.gle/dtfbSbtPaZ5yjMFD7" target="_blank">here</a></p>
+<p>Just as a reminder, the jam showcase will be this Wednesday at the usual time. Feel free to work on your game up to the jam if necessary. <del>or be like me and do the jam after the showcase</del></p>
 
 <p><em>- Cameron, President</em></p>
 
