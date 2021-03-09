@@ -1,10 +1,10 @@
-<p>Hey everyone, couple quick reminders before the jam showcase on Wednesday!</p>
+<p>Hello everyone!</p>
 
-<p>The pro-gamer officer, Thomas, will be playing game jam games. If you'd like Thomas to play test your game during the meeting, submit this form:</p>
+<p>We are in the final stretch of the quarter! Before we all go off on our finals, we have one last weekly meeting! You’ll want to stop by this time because we squeezed in a guest talk from WWU sister club member Wyatt!!</p>
 
-<p>If you'd like to present your game yourself, that's rad too!</p>
+<p>Wyatt will be going over the MDA framework--another means of analyzing games!</p>
 
-<p>Just as a reminder, the jam showcase will be this Wednesday at the usual time. Feel free to work on your game up to the jam if necessary. <del>or be like me and do the jam after the showcase</del></p>
+<p>What’s more, this meeting will also be the BIG REVEAL for our three new GDC officers! Stop on by #More220 at 4:30pm pst to meet them!</p>
 
 <p><em>- Cameron, President</em></p>
 
