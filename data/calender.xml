@@ -1,47 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <calender>
    <event>
-      <title>Winter Jam Showcase</title>
-      <date>2021-01-13</date>
+      <title>TBD</title>
+      <date>2021-04-07</date>
    </event>
    <event>
-      <title>GDC Talks</title>
-      <date>2021-01-20</date>
+      <title>TBD</title>
+      <date>2021-04-14</date>
    </event>
    <event>
-      <title>Design Bytes</title>
-      <date>2021-01-27</date>
+      <title>TBD</title>
+      <date>2021-04-21</date>
    </event>
    <event>
-      <title>Unity Custom Editor Scripts</title>
-      <date>2021-02-03</date>
+      <title>TBD</title>
+      <date>2021-04-28</date>
    </event>
    <event>
-      <title>Boss Design</title>
-      <date>2021-02-10</date>
+      <title>TBD</title>
+      <date>2021-05-05</date>
    </event>
    <event>
-      <title>Narrative Design</title>
-      <date>2021-02-17</date>
+      <title>TBD</title>
+      <date>2021-05-12</date>
    </event>
    <event>
-      <title>Compute Shaders</title>
-      <date>2021-02-24</date>
+      <title>TBD</title>
+      <date>2021-05-19</date>
    </event>
    <event>
-      <title>GAME JAM: Start</title>
-      <date>2021-02-26</date>
+      <title>TBD</title>
+      <date>2021-05-26</date>
    </event>
    <event>
-      <title>GAME JAM: End</title>
-      <date>2021-02-28</date>
-   </event>
-   <event>
-      <title>Jam Showcase</title>
-      <date>2021-03-03</date>
-   </event>
-   <event>
-      <title>MDA framework</title>
-      <date>2021-03-10</date>
+      <title>TBD</title>
+      <date>2021-06-02</date>
    </event>
 </calender>
