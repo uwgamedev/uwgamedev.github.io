@@ -1,10 +1,10 @@
 <p>Hello everyone!</p>
 
-<p>We are in the final stretch of the quarter! Before we all go off on our finals, we have one last weekly meeting! You’ll want to stop by this time because we squeezed in a guest talk from WWU sister club member Wyatt!!</p>
+<p>That break sure felt short, yet here we are again at the start of another beautiful online quarter!</p>
 
-<p>Wyatt will be going over the MDA framework--another means of analyzing games!</p>
+<p>As the quarter winds up, reminder that the first week of the quarter has no weekly meeting. This means that the first official meeting of the quarter will be next Wednesday, 4/7 at 4:30pm.</p>
 
-<p>What’s more, this meeting will also be the BIG REVEAL for our three new GDC officers! Stop on by #More220 at 4:30pm pst to meet them!</p>
+<p>As a democracy, we want your votes to make better talks this quarter. We’ve included a <a href="https://forms.gle/cpBTXYrLjYMgviiw5" target="_blank">form</a> asking about what sorts of talks you’d like to see for Spring quarter. Anyone who does not respond will be hunted down and forced to use discord light mode!!</p>
 
 <p><em>- Cameron, President</em></p>
 
