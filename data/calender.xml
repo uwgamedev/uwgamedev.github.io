@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <calender>
    <event>
-      <title>TBD</title>
-      <date>2021-04-07</date>
-   </event>
-   <event>
-      <title>TBD</title>
+      <title>Unreal Engine Blueprints Tutorial</title>
       <date>2021-04-14</date>
    </event>
    <event>
@@ -31,6 +27,10 @@
    <event>
       <title>TBD</title>
       <date>2021-05-26</date>
+   </event>
+   <event>
+      <title>TBD</title>
+      <date>2021-06-02</date>
    </event>
    <event>
       <title>TBD</title>
