@@ -1,4 +1,4 @@
-<p>Attention @ everyone! An update from your friendly neighborhood officers:</p>
+<p>Attention everyone! An update from your friendly neighborhood officers:</p>
 
 <p>Unity is DEAD. From now on, Unreal is the new way. Everyone must report to the weekly meeting (in #More220 4:30 PST Wed) for --reeducation-- a helpful tutorial on Unreal blueprints, given by new officer Namit.</p>
 
