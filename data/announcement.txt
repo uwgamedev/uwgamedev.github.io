@@ -1,12 +1,12 @@
-<p>Hello everyone!</p>
+<p>Attention @ everyone! An update from your friendly neighborhood officers:</p>
 
-<p>Hear that? That’s the sound of another rockin’ quarter (rumblin’ in) coming your way!!</p>
+<p>Unity is DEAD. From now on, Unreal is the new way. Everyone must report to the weekly meeting (in #More220 4:30 PST Wed) for --reeducation-- a helpful tutorial on Unreal blueprints, given by new officer Namit.</p>
 
-<p>Stop on by for our first weekly meeting of the quarter, which is in the #More220 voice channel this Wednesday at 4:30pm pst. Stop on by to learn more about the club, some opportunities, and break the ice with club members!</p>
+<p>For those who don’t know, Unreal blueprints are a node-based system for creating game logic, enabling you to make a game entirely without programming! If you are an artist/musician/etc who couldn’t be bothered to do programming before, this would be a good one to try!</p>
 
-<p>The icebreaking activity will be some <a href="https://store.steampowered.com/app/1583910/Tic_Tac_Together/" target="_blank">Tic Tac Together</a> bonding time! If you weren’t around for one of our recent meetings, Tic Tac Together is an awesome party game developed by former club members Jose and Andrew, getting released next month (5/11) on Steam</p>
+~~Context Switch!~~
 
-<p>Feel free to check them out on Steam and maybe give them a wishlist to support club alumni</p>
+Also coming up <em>next</em> week is the quarterly game jam :gamejam:! As is tradition at this point, we are opening up a form for y’all to submit theme ideas. Submit as many as you wish <a href="https://forms.gle/Lcv4mbtCkP7EwKbLA" target="_blank">here</a>
 
 <p><em>- Cameron, President</em></p>
 
