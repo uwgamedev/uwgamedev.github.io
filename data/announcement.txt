@@ -1,12 +1,16 @@
-<p>Attention everyone! An update from your friendly neighborhood officers:</p>
+<p>Hey everyone</p>
 
-<p>Unity is DEAD. From now on, Unreal is the new way. Everyone must report to the weekly meeting (in #More220 4:30 PST Wed) for --reeducation-- a helpful tutorial on Unreal blueprints, given by new officer Namit.</p>
+<p>Hope everyone is settling into the quarter! This week will be an assorted genre analysis talk; we have three of our favorite genres that our speakers will present on:
 
-<p>For those who don’t know, Unreal blueprints are a node-based system for creating game logic, enabling you to make a game entirely without programming! If you are an artist/musician/etc who couldn’t be bothered to do programming before, this would be a good one to try!</p>
+<p>Sandbox, given by Arif</p>
+<p>Shooters, given by Namit</p>
+<p>Metroidvanias, given by Roberto</p>
 
-~~Context Switch!~~
+<p>As always, the talk will be given during this Wednesday’s meeting at 4:30pm in the #More220 voice channel.</p>
 
-Also coming up <em>next</em> week is the quarterly game jam :gamejam:! As is tradition at this point, we are opening up a form for y’all to submit theme ideas. Submit as many as you wish <a href="https://forms.gle/Lcv4mbtCkP7EwKbLA" target="_blank">here</a>
+<p>Also, coming up this weekend is the quarterly game jam! That means we still need to come up with a theme, so go fill out the <a href="https://forms.gle/E3PBGPKrEh4tNHHy6">round 1 theme voting form</a></p>
+
+<p>P.S. GET HYPED</p>
 
 <p><em>- Cameron, President</em></p>
 
