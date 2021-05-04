@@ -1,11 +1,8 @@
-<p>What’s buzzin’ Jammers (everyone)!!</p>
+<p>Hello everyone!</p>
 
-<p>Hope you’ve been busy as beez cooking up some sweet jam games.</p>
-<p>Time to show how we’ve broken all known laws of aviation during the Showcase!</p>
+<p>Happy Monday! Hope you’ve been soldiering through the midterms these past few weeks. At this week’s Wednesday meeting (at 4:30 pm in the #More220 voice channel), I will be giving a genre analysis talk on roguelikes/roguelites and their variants. They’ve certainly seen success commercially in recent history, so good to think about what they are, and why they are fun!</p>
 
-<p>Jam showcase, this Wednesday (at 4:30pm in #More220). Bee there or bee square.</p>
-
-<p>And if you’re the real bee’s knees and made a game, feel free to submit it to <a href="https://forms.gle/ht5qxVozrfjDXosz9">this form</a> and have Namit playtest your game at the showcase (optional; you can present it yourself)</p>
+<p>Hope to see you there,</p>
 
 <p><em>- Cameron, President</em></p>
 
