@@ -1,8 +1,6 @@
-<p>Hello everyone!</p>
+<p>WASSUP everyone!</p>
 
-<p>Happy Monday! Hope you’ve been soldiering through the midterms these past few weeks. At this week’s Wednesday meeting (at 4:30 pm in the #More220 voice channel), I will be giving a genre analysis talk on roguelikes/roguelites and their variants. They’ve certainly seen success commercially in recent history, so good to think about what they are, and why they are fun!</p>
-
-<p>Hope to see you there,</p>
+<p>3 weeks left! Spring Quarter is almost done! What weighs more, a ton of feathers or a ton of steel? They both weigh a <b><em>single ton</em></b>! The past two meetings have been design talks and we’ve decided to do a quick technical talk on SINGLETONS. Some of you probably already know what a singleton... For others that don’t know come and check it out! This talk will be presented by either the Camel or the Hollow Knight shiller himself, Esau! Either way, be prepared to learn about them! Wednesday @ 4:30 in More 220, be there or be a square.</p>
 
 <p><em>- Cameron, President</em></p>
 
