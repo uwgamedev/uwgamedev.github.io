@@ -1,7 +1,9 @@
-<p>WASSUP everyone!</p>
+<p>Hello everyone, </p>
 
-<p>3 weeks left! Spring Quarter is almost done! What weighs more, a ton of feathers or a ton of steel? They both weigh a <b><em>single ton</em></b>! The past two meetings have been design talks and we’ve decided to do a quick technical talk on SINGLETONS. Some of you probably already know what a singleton... For others that don’t know come and check it out! This talk will be presented by either the Camel or the Hollow Knight shiller himself, Esau! Either way, be prepared to learn about them! Wednesday @ 4:30 in More 220, be there or be a square.</p>
+<p><s>Bob Ross:</s> Thomas here, back with another episode of how to not fail at digital art! I’ll be talking about my experience learning to make good art, and then spend the rest of the time doing a live drawing session!
+If you want to follow along, most the techniques discussed will be applicable to any sort of drawing software :paintbrush:, but the one we’ll be using is Clip Studio Paint, which you can get a free trial for here: <a href="https://www.clipstudio.net/en/purchase/trial/" target="_blank">link</a>. However, you can use any drawing software like Krita.
+DRAWING TABLET STRONGLY RECOMMENDED (You can use a mouse but you may not get the same results)</p>
 
-<p><em>- Cameron, President</em></p>
+<p><em>- Thomas Nguyen, Vice-President</em></p>
 
 <p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
