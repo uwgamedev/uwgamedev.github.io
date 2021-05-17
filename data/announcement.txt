@@ -1,7 +1,7 @@
 <p>Hello everyone, </p>
 
-<p><s>Bob Ross:</s> Thomas here, back with another episode of how to not fail at digital art! I’ll be talking about my experience learning to make good art, and then spend the rest of the time doing a live drawing session!
-If you want to follow along, most the techniques discussed will be applicable to any sort of drawing software :paintbrush:, but the one we’ll be using is Clip Studio Paint, which you can get a free trial for here: <a href="https://www.clipstudio.net/en/purchase/trial/" target="_blank">link</a>. However, you can use any drawing software like Krita.
+<p><s>Bob Ross</s> Thomas here, back with another episode of how to not fail at digital art! I’ll be talking about my experience learning to make good art, and then spend the rest of the time doing a live drawing session!
+If you want to follow along, most the techniques discussed will be applicable to any sort of drawing software, but the one we’ll be using is Clip Studio Paint, which you can get a free trial for here: <a href="https://www.clipstudio.net/en/purchase/trial/" target="_blank">link</a>. However, you can use any drawing software like Krita.
 DRAWING TABLET STRONGLY RECOMMENDED (You can use a mouse but you may not get the same results)</p>
 
 <p><em>- Thomas Nguyen, Vice-President</em></p>
