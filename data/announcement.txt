@@ -1,6 +1,6 @@
 <p>Hello everyone,</p>
 
-<p>We’re finally back in-person this year. Again, welcome back to returning members or welcome to new students joining us this year. So upcoming this Wednesday, we will be having our first meeting of the year, in-person, at More 220 at 4:30 PM-5:30 PM. This meeting will be mainly social and give everyone the opportunity to get to know one another (we have the room till 6:30 PM!). If you don’t come, we’ll find you</p>
+<p>What’s up gamers . We had a great turn out last week and it was cool so see so many new faces and some returning faces. This Wednesday will be one of the most important meetings of the quarter: our beginner tutorial. I will be teaching everyone how to make a simple 2D platformer. So, this Wednesday we will need you to bring a laptop with Unity  installed (just get the latest version), a code editor of your choice (Visual Studio, VS Code , notepad++, etc. ), and preferably a mouse (please don’t hurt yourself by not having one).</p>
 
 <p><em>- Thomas, President</em></p>
 
