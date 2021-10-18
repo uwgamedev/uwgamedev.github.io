@@ -1,7 +1,13 @@
-<p>Hello everyone,</p>
+<p>Heyo Gamers!</p>
+<p>Time to let you know about next week’s meeting! This week we’re going to be giving a demonstration of using the UNITY ANIMATOR! Wooooo animation, so cool. We’ll specifically be using the animator for 2D animation this meeting since 3D is super scary. We’ll also be giving you a quick introduction to unity packages by using DoTween, a nice way to do quick animations without the animator.</p>
 
-<p>We’re finally back in-person this year. Again, welcome back to returning members or welcome to new students joining us this year. So upcoming this Wednesday, we will be having our first meeting of the year, in-person, at More 220 at 4:30 PM-5:30 PM. This meeting will be mainly social and give everyone the opportunity to get to know one another (we have the room till 6:30 PM!). If you don’t come, we’ll find you</p>
+<p><a href="https://github.com/Esauidk/GDCAnimatorTutorialAssets" target="_blank">GitHub</a> I’ve prepared some assets for you guys to use during this meeting. I recommend you wait till meeting day before downloading, since more files might be added.</p>
 
-<p><em>- Thomas, President</em></p>
+<p><em>Don’t worry guys, non-technical talks are coming your way in the future</em></p>
+
+
+<p>ALSO! We have a form for you to fill out! Want some game dev club merch???? Fill out this form so we can get an estimate on how many want some! <a href="https://forms.gle/a4SwukejN5Z4wQgt6" target="_blank">Google Survey Form</a></p>
+
+<p><em>- Esau, Vice President</em></p>
 
 <p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
