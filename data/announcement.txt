@@ -1,12 +1,7 @@
-<p>Heyo Gamers!</p>
-<p>Time to let you know about next week’s meeting! This week we’re going to be giving a demonstration of using the UNITY ANIMATOR! Wooooo animation, so cool. We’ll specifically be using the animator for 2D animation this meeting since 3D is super scary. We’ll also be giving you a quick introduction to unity packages by using DoTween, a nice way to do quick animations without the animator.</p>
+<p>Hey everyone!</p>
+<p>This week is gonna be pretty chill since it's the start of midterm season, we're having a guest speaker Korray from Epic Games, from the Animation Programming team, come and give a talk about what he does and what happens in industry. To be a bit more detailed, he plans to go into the architecture of animation programming, so be ready to hear some new stuff and learn! This is not a tutorial, just a talk about the details on animation programming fyi. Same time, same place, More 220 @ 4:30pm, hope to see you all there (gl with midterms).</p>
 
-<p><a href="https://github.com/Esauidk/GDCAnimatorTutorialAssets" target="_blank">GitHub</a> I’ve prepared some assets for you guys to use during this meeting. I recommend you wait till meeting day before downloading, since more files might be added.</p>
-
-<p><em>Don’t worry guys, non-technical talks are coming your way in the future</em></p>
-
-
-<p>ALSO! We have a form for you to fill out! Want some game dev club merch???? Fill out this form so we can get an estimate on how many want some! <a href="https://forms.gle/a4SwukejN5Z4wQgt6" target="_blank">Google Survey Form</a></p>
+<p>PS: Our game jam is coming up soon and with that said, we're going to start our game jam theme voting! We feel that giving more freedom to the themes helps create more games! Later in the week we'll post a form to submit game jam themes, be on the look out!</p>
 
 <p><em>- Esau, Vice President</em></p>
 
