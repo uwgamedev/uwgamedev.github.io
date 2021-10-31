@@ -1,7 +1,15 @@
-<p>Hey everyone!</p>
-<p>This week is gonna be pretty chill since it's the start of midterm season, we're having a guest speaker Korray from Epic Games, from the Animation Programming team, come and give a talk about what he does and what happens in industry. To be a bit more detailed, he plans to go into the architecture of animation programming, so be ready to hear some new stuff and learn! This is not a tutorial, just a talk about the details on animation programming fyi. Same time, same place, More 220 @ 4:30pm, hope to see you all there (gl with midterms).</p>
+<p>Hi everyone</p>
 
-<p>PS: Our game jam is coming up soon and with that said, we're going to start our game jam theme voting! We feel that giving more freedom to the themes helps create more games! Later in the week we'll post a form to submit game jam themes, be on the look out!</p>
+<p>Game jam is coming up and it’s time to decide on a THEME!</p>
+
+<p>We released a form last week to get your input on game jam ideas and now it’s time to vote on them! On Sunday, 10/31, the theme submission form will be closed and a new form will be released on Monday, 11/1, allowing you all to vote on the theme you want to work on during this jam!</p>
+
+<p>Additionally, if you’re interested in joining a team for the game jam, we’re releasing a form in this announcement for team finding: <a href="https://forms.gle/9c77V96iFH4gFjhF9" target="_blank">Form for Team Finding</a></p>
+
+<p>This Wednesday, we’ll be having a pre-jam showcase/primer where we will show off some games created during game jams in the past. Then, we will put people into their teams so you can meet who you are working with, if you haven’t already.</p>
+
+<p>One more reminder, we sent out a T-shirt interest a few weeks ago and we are still gauging interest in a 2021-2022 T-shirt. So if you are interested at all, please respond to the form here: <a href="https://forms.gle/a4SwukejN5Z4wQgt6" target="_blank">Form for T-shirt Interest</a></p>
+
 
 <p><em>- Esau, Vice President</em></p>
 
