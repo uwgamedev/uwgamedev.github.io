@@ -1,14 +1,9 @@
-<p>Hi everyone</p>
+<p>Hey everyone! How is the game jam going so far? The weekend is almost over but you can continue to work on the game till Wednesday before the start of the meeting! (Cheaters… - Esau)</p>
+<p>Make sure to bring your games! (USB drive, itch.io or your computer)</p>
 
-<p>Game jam is coming up and it’s time to decide on a THEME!</p>
+<p>Update on T-Shirts. We have gauged that there is enough interest in a club T-shirt, so we will proceed in the creation of one. Based on the survey, most people would like to do a design contest for the T-shirt. So, we have linked a submission form down below. Submissions will be open now until 12/1. There are no real limitations (other than keep it PG-13) on how the design can be, so let your imaginations run wild!</p>
 
-<p>We released a form last week to get your input on game jam ideas and now it’s time to vote on them! On Sunday, 10/31, the theme submission form will be closed and a new form will be released on Monday, 11/1, allowing you all to vote on the theme you want to work on during this jam!</p>
-
-<p>Additionally, if you’re interested in joining a team for the game jam, we’re releasing a form in this announcement for team finding: <a href="https://forms.gle/9c77V96iFH4gFjhF9" target="_blank">Form for Team Finding</a></p>
-
-<p>This Wednesday, we’ll be having a pre-jam showcase/primer where we will show off some games created during game jams in the past. Then, we will put people into their teams so you can meet who you are working with, if you haven’t already.</p>
-
-<p>One more reminder, we sent out a T-shirt interest a few weeks ago and we are still gauging interest in a 2021-2022 T-shirt. So if you are interested at all, please respond to the form here: <a href="https://forms.gle/a4SwukejN5Z4wQgt6" target="_blank">Form for T-shirt Interest</a></p>
+<p><a href = "https://forms.gle/J5jif8FfS9EcXhJz9" target="_blank">Form Link Here!</a></p>
 
 
 <p><em>- Esau, Vice President</em></p>
