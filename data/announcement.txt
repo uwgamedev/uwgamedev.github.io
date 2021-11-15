@@ -1,7 +1,8 @@
-<p>Hey everyone! How is the game jam going so far? The weekend is almost over but you can continue to work on the game till Wednesday before the start of the meeting! (Cheaters… - Esau)</p>
-<p>Make sure to bring your games! (USB drive, itch.io or your computer)</p>
+<p>Hello everyone! The jam is over and all the games showcased were super cool!</p>
 
-<p>Update on T-Shirts. We have gauged that there is enough interest in a club T-shirt, so we will proceed in the creation of one. Based on the survey, most people would like to do a design contest for the T-shirt. So, we have linked a submission form down below. Submissions will be open now until 12/1. There are no real limitations (other than keep it PG-13) on how the design can be, so let your imaginations run wild!</p>
+<p>So far we had only technical tutorials but we are moving on to the artsy side with Texture Painting. I will go over how you can give your 3D assets some Texture. I will use Quixel Mixer to do the texture painting and I’ve already modelled the 3D asset in Blender and baked with all the required maps (more on this during the tutorial). I recommend you bring a mouse and unfortunately Mixer is not supported on Linux (sad penguin noises). You can find links to the assets in our Discord.</p>
+
+<p>The T-shirt design contest continues, we have linked a submission form down below. Submissions will be open now until 12/1. There are no real limitations (other than keep it PG-13) on how the design can be, so let your imaginations run wild!</p>
 
 <p><a href = "https://forms.gle/J5jif8FfS9EcXhJz9" target="_blank">Form Link Here!</a></p>
 
