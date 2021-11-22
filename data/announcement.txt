@@ -1,10 +1,8 @@
-<p>Hello everyone! The jam is over and all the games showcased were super cool!</p>
+<p>Hey everyone, There’s good news and bad news… Here’s the good news, you get a free Wednesday afternoon. The bad news is, there’s no meeting this week :(</p>
 
-<p>So far we had only technical tutorials but we are moving on to the artsy side with Texture Painting. I will go over how you can give your 3D assets some Texture. I will use Quixel Mixer to do the texture painting and I’ve already modelled the 3D asset in Blender and baked with all the required maps (more on this during the tutorial). I recommend you bring a mouse and unfortunately Mixer is not supported on Linux (sad penguin noises). You can find links to the assets in our Discord.</p>
+<p>Also! Esau finally recorded his Intro Animator + DoTween talk, enjoy!</p>
 
-<p>The T-shirt design contest continues, we have linked a submission form down below. Submissions will be open now until 12/1. There are no real limitations (other than keep it PG-13) on how the design can be, so let your imaginations run wild!</p>
-
-<p><a href = "https://forms.gle/J5jif8FfS9EcXhJz9" target="_blank">Form Link Here!</a></p>
+<p><a href = "https://youtu.be/hHi7V6iMS7g" target="_blank">Link to VOD</a></p>
 
 
 <p><em>- Namit, Officer</em></p>
