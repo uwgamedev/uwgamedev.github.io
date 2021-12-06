@@ -1,18 +1,13 @@
-<p>Hey Gamers,</p>
-<p>Hope the end of the quarter is going well for y’all. This week we’ve got an art talk/workshop coming up (given by yours truly). I’m gonna be talking a little bit about theory but mostly we’re gonna be in the drawing software experimenting and making your own stuff! It’s not gonna be a traditional tutorial where you gotta squint at the screen and try to keep up for two hours so come chill and hang and color :D Make sure to bring some sort of drawing software on your device (preferably Krita; it’s free! But you can also bring CSP, Photoshop, Procreate, or any others just not GIMP >:( ) Here’s a download link for Krita:</p> 
+<p>Hey <b><em>GAMERS</em></b>, we are in the final stretch of the quarter! The next meeting will be the last one of the quarter and we our gonna end it with <b><em>P I Z Z A</em></b>!
+Besides pizza, we’ll play some Jackbox stuff and Smash Bros. Feel free to join us in More 220 for some pizza and games.</p>
 
-<p><a href = "https://krita.org/en/" target="_blank">Download Krita</a></p> 
+<p>As we talked about 3 weeks ago, we will be doing a Winter break game jam. This one will be special as it will be 2 weeks long and the showcase will be the first week back in Winter Quarter. Here is the <a http="https://forms.gle/RXP7SM31xnDaVxTf9" target="_blank">theme submission form</a>.</p>
+We will close this form during the dead week’s meeting (12/8) and then we will open up the voting form.</p>
 
-<p>As we talked about 2 weeks ago, we will be doing a Winter break game jam. This one will be special as it will be 2 weeks long and the showcase will be the first week back in Winter Quarter. Here is the theme submission form:</p>
+<p>Also again, we still have the club t-shirt submission form going on until 12/8 before the meeting, where we will show off the designs and send out a form to vote for the best design. Here is the <a http="https://forms.gle/J5jif8FfS9EcXhJz9" target="_blank">form again</a>.</p>
 
-<p><a href = "https://forms.gle/RXP7SM31xnDaVxTf9" target="_blank">Theme Submission form</a></p> 
+<p>Lastly, we are releasing a <a http="https://forms.gle/asaBfi3qX45Hf1bMA" target="_blank">feedback form</a> so that you guys can help us improve for the upcoming quarter. It will be super helpful for us and for you if you could take some time to fill it out!</p>
 
-<p>We will close this form during dead week’s meeting (12/8) and then we will open up the voting form.</p>
-
-<p>Lastly, as a reminder, we still have the club t-shirt submission form going on for another week. We will be closing it on 12/8 before meeting, where we will show off the designs and vote for our favorite design. Here is the form again:</p> 
-
-<p><a href = "https://forms.gle/J5jif8FfS9EcXhJz9" target="_blank">Design Submission form</a></p> 
-
-<p><em>- Yerim, Officer</em></p>
+<p><em>- Namit, Officer</em></p>
 
 <p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
