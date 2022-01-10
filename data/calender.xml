@@ -1,51 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <calender>
    <event>
-      <title>Intro/Icebreakers</title>
-      <date>2021-10-06</date>
+      <title>Winter Break Jam Showcase</title>
+      <date>2022-01-12</date>
    </event>
    <event>
-      <title>Beginner Tutorial</title>
-      <date>2021-10-13</date>
+      <title>Intro to Unity Fundamentals</title>
+      <date>2022-01-19</date>
    </event>
    <event>
-      <title>Unity Animator Talk</title>
-      <date>2021-10-20</date>
+      <title>TBD</title>
+      <date>2022-01-26</date>
    </event>
    <event>
-      <title>Narrative Storytelling</title>
-      <date>2021-10-27</date>
-   </event>
-   <event>
-      <title>Pre-Jam Showcase + Team Ups</title>
-      <date>2021-11-03</date>
+      <title>TBD</title>
+      <date>2022-02-02</date>
    </event>
    <event>
       <title>GAME JAM: Start</title>
-      <date>2021-11-05</date>
+      <date>2022-02-04</date>
    </event>
    <event>
       <title>GAME JAM: End</title>
-      <date>2021-11-07</date>
+      <date>2022-02-06</date>
    </event>
    <event>
-      <title>Jam Showcase</title>
-      <date>2021-11-10</date>
+      <title>TBD</title>
+      <date>2022-02-09</date>
    </event>
    <event>
-      <title>Texture Painting</title>
-      <date>2021-11-17</date>
+      <title>TBD</title>
+      <date>2022-02-16</date>
    </event>
    <event>
-      <title>No Meeting</title>
-      <date>2021-11-24</date>
+      <title>TBD</title>
+      <date>2022-02-23</date>
    </event>
    <event>
-      <title>Painting Techniques</title>
-      <date>2021-12-01</date>
+      <title>TBD</title>
+      <date>2022-03-02</date>
    </event>
    <event>
-      <title>Pizza Day</title>
-      <date>2021-12-08</date>
+      <title>TBD</title>
+      <date>2022-03-09</date>
    </event>
 </calender>
