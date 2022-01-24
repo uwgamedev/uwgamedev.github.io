@@ -1,5 +1,8 @@
-<p>Hey Gamers! Hope y'all are doing fine on this third week online, sadly we’re still operating online :(. We will keep you guys updated as the weeks go by and UW releases any news. Luckily this week's meeting works well with this online format. Based on feedback, we know that last quarter it was hard to follow along with the tutorials and many of you might be confused with the main components of Unity. We’ll be covering them in this week’s talk with a more clear exploration of Unity fundamentals. Not a follow along this time.</p>
+<p>Hey everyone! It’s almost February >.>, we are still online but hopefully we will go in-person in the week after. Just like the last meeting, this one is also a tutorial so it should work well over Discord.
+This time I will be giving an intro tutorial to Blender. I will go through the process of making a basic weapon model from start to finish. Highly recommend that you guys use a mouse for this one. Baking is not gonna be covered so if you guys are interested in a tutorial on that, please let us know!</p>
 
-<p><em>- Esau, Vice President</em></p>
+<p>One last update, the 2021-2022 t-shirts have arrived! We will be handing them out at our next in-person meeting which will hopefully be the NEXT next Wednesday (2/2/22), but we will have to see what UW decides. If you are unable to pick them up in person, please dm one of the officers and we will work something out.</p>
+
+<p><em>- Namit, Officer</em></p>
 
 <p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
