@@ -1,7 +1,14 @@
-<p>Hey everyone! It’s almost February >.>, we are still online but hopefully we will go in-person in the week after. Just like the last meeting, this one is also a tutorial so it should work well over Discord.
-This time I will be giving an intro tutorial to Blender. I will go through the process of making a basic weapon model from start to finish. Highly recommend that you guys use a mouse for this one. Baking is not gonna be covered so if you guys are interested in a tutorial on that, please let us know!</p>
+<p>Hey Gamers!!!!</p>
+<p>This quarter, we’ve acquired a different room for our meetings (goodbye MORE 220 T_T), we’ll be in MEB 103. Same time as always though, 4:30 PM on Wednesdays.</p>
 
-<p>One last update, the 2021-2022 t-shirts have arrived! We will be handing them out at our next in-person meeting which will hopefully be the NEXT next Wednesday (2/2/22), but we will have to see what UW decides. If you are unable to pick them up in person, please dm one of the officers and we will work something out.</p>
+<p>If you bought a Game Dev Club 2021-2022 t-shirt, you can pick them up at this week’s meeting and subsequent meetings. If you didn’t buy one but are interested, we have some extras that we can sell at a slightly marked up price.</p>
+
+<p>For the Game Dev Challenge, the way this will work is that we will present a theme (this week’s theme is “make a mechanic”) and throughout the normal meeting time, people will try to implement something that goes according to the theme. Some feedback we got from last quarter was you guys wanted more hands-on game dev stuff in the club, so we thought of this. You have all creative freedom about how you go about the workshop.</p>
+
+<p>You can add onto an existing project of yours or start from scratch. In terms of mechanics, you could pull from other games or try to come up with something new. Additionally, you can work with a team for this challenge. Might be a good opportunity to get a feel for working with your game jam teammates. Officers will provide help with people’s implementation if need be. However, if you are not interested in participating in the challenge, you spend the time as a workshop instead where you can work on a project and get feedback/help on improving it. If you guys like it, please let us know and we can do it MORE often.</p>
+
+
+<p>Also! The game jam is coming up, if people want to join groups for the game jam, the <a href="https://forms.gle/CYfquUyhKfx1a2dE6" target="_blank">team form</a> is still up until <b>Tuesday</b>. <a href="https://forms.gle/xXY1r17pj5iTvrWTA" target="_blank">Theme voting</a> for the game jam is also up, closes <b>Friday before 6pm.</b></p>
 
 <p><em>- Namit, Officer</em></p>
 
