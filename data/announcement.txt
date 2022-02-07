@@ -1,14 +1,15 @@
-<p>Hey Gamers!!!!</p>
-<p>This quarter, we’ve acquired a different room for our meetings (goodbye MORE 220 T_T), we’ll be in MEB 103. Same time as always though, 4:30 PM on Wednesdays.</p>
+<p>Hey GAMEEERRRRRRSSSSSSSSSSSZSZZZZZZ! (Esau stopped me from doing a normal greeting)
+Hopefully you all had a great weekend working on the game jam! This Wednesday we will be doing the showcase. If you have not finished working on your games then you can *technically* work till 4:30 on Wednesday.</p>
 
-<p>If you bought a Game Dev Club 2021-2022 t-shirt, you can pick them up at this week’s meeting and subsequent meetings. If you didn’t buy one but are interested, we have some extras that we can sell at a slightly marked up price.</p>
-
-<p>For the Game Dev Challenge, the way this will work is that we will present a theme (this week’s theme is “make a mechanic”) and throughout the normal meeting time, people will try to implement something that goes according to the theme. Some feedback we got from last quarter was you guys wanted more hands-on game dev stuff in the club, so we thought of this. You have all creative freedom about how you go about the workshop.</p>
-
-<p>You can add onto an existing project of yours or start from scratch. In terms of mechanics, you could pull from other games or try to come up with something new. Additionally, you can work with a team for this challenge. Might be a good opportunity to get a feel for working with your game jam teammates. Officers will provide help with people’s implementation if need be. However, if you are not interested in participating in the challenge, you spend the time as a workshop instead where you can work on a project and get feedback/help on improving it. If you guys like it, please let us know and we can do it MORE often.</p>
+<p><b>Reminder: The new meeting room is in MEB 103 at 4:30 PM</b></p>
 
 
-<p>Also! The game jam is coming up, if people want to join groups for the game jam, the <a href="https://forms.gle/CYfquUyhKfx1a2dE6" target="_blank">team form</a> is still up until <b>Tuesday</b>. <a href="https://forms.gle/xXY1r17pj5iTvrWTA" target="_blank">Theme voting</a> for the game jam is also up, closes <b>Friday before 6pm.</b></p>
+<p>Make sure you bring your game either on your computer, have an itch.io link, or some sort of external storage so anyone can play it. Also, make sure you bring a HDMI adapter if your laptop does not have an HDMI port.</p>
+
+<p>Looking forward to those games!</p>
+
+<p><em>Please bring a game</em></p>
+
 
 <p><em>- Namit, Officer</em></p>
 
