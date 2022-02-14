@@ -1,16 +1,9 @@
-<p>Hey GAMEEERRRRRRSSSSSSSSSSSZSZZZZZZ! (Esau stopped me from doing a normal greeting)
-Hopefully you all had a great weekend working on the game jam! This Wednesday we will be doing the showcase. If you have not finished working on your games then you can *technically* work till 4:30 on Wednesday.</p>
+<p>Hey everyone</p> 
 
-<p><b>Reminder: The new meeting room is in MEB 103 at 4:30 PM</b></p>
+<p>First off, after all the technical stuff we have been doing these past weeks, this week we will have a more relaxed and less technical talk than usual. This week I will be giving a talk on Narrative and Storytelling. People sometimes forget about this aspect of game design or don’t know how to approach it, but it’s something anyone can do. So as usual, stop by our new room MEB 103 at 4:30pm and learn some neato writing tips.</p>
 
+<p>We have some bad news and good news. The bad news, due to circumstances, we are **two** officers short and by the end of Spring quarter, two more of us will be no more (F). Good news, that means officer applications are open. Yes we want you to apply! If you are interested at all, please apply even if you feel like you don’t have much experience or are a freshman. If you like this club and want to play a role in how it’s run, feel free to try. Here’s the form link to apply: <a href="https://forms.gle/GUhyY22TWYpnFQDg7">Apply</a></p>\
 
-<p>Make sure you bring your game either on your computer, have an itch.io link, or some sort of external storage so anyone can play it. Also, make sure you bring a HDMI adapter if your laptop does not have an HDMI port.</p>
-
-<p>Looking forward to those games!</p>
-
-<p><em>Please bring a game</em></p>
-
-
-<p><em>- Namit, Officer</em></p>
+<p><em>- Thomas, President</em></p>
 
 <p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
