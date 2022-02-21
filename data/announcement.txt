@@ -1,8 +1,8 @@
-<p>Hey everyone</p> 
+<p>Hey everyone. Hope you all had a great three day weekend.</p> 
 
-<p>First off, after all the technical stuff we have been doing these past weeks, this week we will have a more relaxed and less technical talk than usual. This week I will be giving a talk on Narrative and Storytelling. People sometimes forget about this aspect of game design or don’t know how to approach it, but it’s something anyone can do. So as usual, stop by our new room MEB 103 at 4:30pm and learn some neato writing tips.</p>
+<p>This week’s meeting will be about baking (no cakes). A sort of watered down explanation for baking is that you are storing details (as PNGs mostly) of your texture for a model for use in other 3D softwares. I will be using Blender for this tutorial. The 3D model used for baking should be available to you guys by Wednesday. As usual, a mouse is highly recommended.</p>
 
-<p>We have some bad news and good news. The bad news, due to circumstances, we are **two** officers short and by the end of Spring quarter, two more of us will be no more (F). Good news, that means officer applications are open. Yes we want you to apply! If you are interested at all, please apply even if you feel like you don’t have much experience or are a freshman. If you like this club and want to play a role in how it’s run, feel free to try. Here’s the form link to apply: <a href="https://forms.gle/GUhyY22TWYpnFQDg7">Apply</a></p>\
+<p>Reminder: The officer applications are still open! Feel free to give it a shot, they will be closing at the end of THIS week (25th February). Link to the form: <a href="https://forms.gle/GUhyY22TWYpnFQDg7">Apply</a></p>
 
 <p><em>- Thomas, President</em></p>
 
