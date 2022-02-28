@@ -1,9 +1,5 @@
-<p>Hey everyone. Hope you all had a great three day weekend.</p> 
+<p>Hey everyone, the end of the quarter is quickly approaching already. Unfortunately, this week, we will not be having a meeting, so feel free to relax this Wednesday. Instead, the officers will be focusing on conducting officer interviews. So, if you applied to be an officer, you will receive some information about that very soon. Hang in there everyone, we're almost done.</p>
 
-<p>This week’s meeting will be about baking (no cakes). A sort of watered down explanation for baking is that you are storing details (as PNGs mostly) of your texture for a model for use in other 3D softwares. I will be using Blender for this tutorial. The 3D model used for baking should be available to you guys by Wednesday. As usual, a mouse is highly recommended.</p>
-
-<p>Reminder: The officer applications are still open! Feel free to give it a shot, they will be closing at the end of THIS week (25th February). Link to the form: <a href="https://forms.gle/GUhyY22TWYpnFQDg7">Apply</a></p>
-
-<p><em>- Namit, Officer</em></p>
+<p><em>- Thomas, President</em></p>
 
 <p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
