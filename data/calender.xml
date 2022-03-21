@@ -1,47 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <calender>
    <event>
-      <title>Winter Break Jam Showcase</title>
-      <date>2022-01-12</date>
+      <title>Intro to Godot (and procedural generation), HUB 214</title>
+      <date>2022-04-06</date>
    </event>
    <event>
-      <title>Intro to Unity Fundamentals</title>
-      <date>2022-01-19</date>
+      <title>Challenge: Level Design, HUB 214</title>
+      <date>2022-04-13</date>
    </event>
    <event>
-      <title>Blender Tutorial</title>
-      <date>2022-01-26</date>
+      <title>Spring Game Jam Kickoff, HUB 214</title>
+      <date>2022-04-20</date>
    </event>
    <event>
-      <title>Game Dev Challenge: Make a Mechanic</title>
-      <date>2022-02-02</date>
+      <title>TBD, HUB 214</title>
+      <date>2022-04-27</date>
    </event>
    <event>
-      <title>GAME JAM: Start</title>
-      <date>2022-02-04</date>
+      <title>Game Jam Showcase, HUB 214</title>
+      <date>2022-05-04</date>
    </event>
    <event>
-      <title>GAME JAM: End</title>
-      <date>2022-02-06</date>
+      <title>TBD, HUB 214</title>
+      <date>2022-05-11</date>
    </event>
    <event>
-      <title>Game Jam Showcase</title>
-      <date>2022-02-09</date>
+      <title>TBD, HUB 214</title>
+      <date>2022-05-11</date>
    </event>
    <event>
-      <title>Narrative/Storytelling</title>
-      <date>2022-02-16</date>
+      <title>TBD, HUB 337</title>
+      <date>2022-05-18</date>
    </event>
    <event>
-      <title>Baking Tutorial</title>
-      <date>2022-02-23</date>
+      <title>TBD, room TBD</title>
+      <date>2022-05-25</date>
    </event>
    <event>
-      <title>No Meeting</title>
-      <date>2022-03-02</date>
+      <title>Pizza Day, room TBD</title>
+      <date>2022-06-01</date>
    </event>
-   <event>
-      <title>Pizza Day</title>
-      <date>2022-03-09</date>
-   </event>
+   
 </calender>
