@@ -64,7 +64,8 @@ body {
 	width: 100%;
 	height: 500px;
 	position: relative;
-	background-image: url('https://static.jam.vg/raw/f62/z/13e1.png');
+	background-image: url('./images/banner_2020-2021.png');
+	/* background-image: url('https://static.jam.vg/raw/f62/z/13e1.png'); */
 	/* background-image: url('./images/miami_show.gif'); */
 	background-size: cover;
 	 
