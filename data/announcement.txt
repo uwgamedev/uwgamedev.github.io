@@ -1,5 +1,22 @@
-<p>Hey everyone, we finally made it to week 10 and the end is near. Since it’s dead week, this week will be our classic pizza day. However, we’ve got something extra for you guys. This Wednesday, along with pizza day, we will be having a guest speaker: Nick Kaman, co-founder of both Game Dev Club and the indie game studio Aggro Crab Games. He’ll be giving a talk on designing the art direction of the studio’s game Going Under. Same as usual, we’ll be meeting at MEB 103 @ 4:30 Wednesday (hopefully we get a better room next quarter). Like with our other guest speakers, feel free to bring questions! This talk will not be recorded, hope to see you all there! Also, we will be announcing our new officers, so look forward to that as well.</p>
+<p>
+Hey everyone! We have acquired a <b>new meeting location: MEB 234!!!</b> (still Wednesdays at 4:30 PM)
+</p>
 
-<p><em>- Thomas, President</em></p>
+<p>
+This week’s (April 6th) presentation will be an “Introduction to Godot”:
+<ul>
+  <li>How does it work?</li>
+  <li>How do you organize a project??</li>
+  <li>What are scenes and resources???</li>
+  <li>How do you incorporate your assets????</li>
+</ul>
+</p>
+
+
+<p>
+All this and more will be answered! :tada: It will be a mix between a slideshow and you trying things out on your own computer. Bring your computer with Godot installed so that you can fully participate (64 bit, standard version): <a href="https://godotengine.org/download">https://godotengine.org/download</a>
+</p>
+
+<p><em>- Alnis</em></p>
 
 <p>Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!</p>
