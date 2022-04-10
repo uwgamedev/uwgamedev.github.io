@@ -7,7 +7,7 @@ We have a couple announcements to go through today. First off, for this Wednesda
 last quarter’s game dev challenge/workshop, we will be doing another one. The theme of this one will be “level design”. So throughout the
 normal meeting time (MEB 234 from 4:30pm - 6:30 pm), your goal will be to create a playable level and it’s up to you how complex and
 interesting it can be. You can work off of an existing project or you can use one a base platformer project provided by us. You can find
-them at this link: https://github.com/Esauidk/GameDevLevelDesignChallenge (won’t be ready until the meeting)
+them at <a href="https://github.com/Esauidk/GameDevLevelDesignChallenge"> this link</a> (won’t be ready until the meeting).
 </p>
 
 <p>
@@ -18,7 +18,8 @@ and get feedback/help on improving it.
 <p>
 Second announcement, we will be having our quarterly game jam soon. This time however, we’re changing things up. Based on feedback, instead of a
 weekend-long jam, we are now switching to 2-week long game jams. The game jam will begin on Wednesday 4/20 during meeting time. For now, we will be
-releasing the theme submission form. It will be open until the following Sunday, so get those ideas in. Link to form: https://forms.gle/Cxyz2RaKVPcLo9hD9
+releasing the theme submission form. It will be open until the following Sunday, so get those ideas in.
+<a href="https://forms.gle/Cxyz2RaKVPcLo9hD9">Link to form</a>
 </p>
 
 <p><em>- Thomas, President</em></p>
