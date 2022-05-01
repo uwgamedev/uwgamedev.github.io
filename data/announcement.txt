@@ -1,28 +1,8 @@
 <p>
-Hey everyone!
+COME ONE, COME ALL, PRESENT THEE GAMES FOR OUR BEAUTIFUL EYES TO VIEW 👀. That’s it. See you all on wednesday with your games in MEB 234 @ 4:30pm 🤤 😌
 </p>
 
-<p>
-We have a couple announcements to go through today. First off, for this Wednesday’s (April 13th) meeting, due to the positive feedback on
-last quarter’s game dev challenge/workshop, we will be doing another one. The theme of this one will be “level design”. So throughout the
-normal meeting time (MEB 234 from 4:30pm - 6:30 pm), your goal will be to create a playable level and it’s up to you how complex and
-interesting it can be. You can work off of an existing project or you can use one a base platformer project provided by us. You can find
-them at <a href="https://github.com/Esauidk/GameDevLevelDesignChallenge"> this link</a> (won’t be ready until the meeting).
-</p>
-
-<p>
-If you don’t want to participate in the challenge, you can instead spend the time as a workshop instead where you can work on a project
-and get feedback/help on improving it. 
-</p>
-
-<p>
-Second announcement, we will be having our quarterly game jam soon. This time however, we’re changing things up. Based on feedback, instead of a
-weekend-long jam, we are now switching to 2-week long game jams. The game jam will begin on Wednesday 4/20 during meeting time. For now, we will be
-releasing the theme submission form. It will be open until the following Sunday, so get those ideas in.
-<a href="https://forms.gle/Cxyz2RaKVPcLo9hD9">Link to form</a>
-</p>
-
-<p><em>- Thomas, President</em></p>
+<p><em>- Esau, Vice President</em></p>
 
 <p>
 Looking for weekly happenings? Head to our <a href="https://discord.gg/uWQcnHC" target="_blank">discord server</a> to keep up with announcements and events!
